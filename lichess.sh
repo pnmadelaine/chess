@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 user=pnmadelaine
 token=$(cat token.txt)
@@ -8,4 +8,4 @@ curl "https://lichess.org/api/games/user/$user?clocks=true&pgnInJson=true&sort=d
 	-H "Accept: application/x-ndjson" \
 	> lichess.json
 
-cat lichess.json | jq ".pgn" -r > lichess.pgn
+jq ".pgn" -r < lichess.json > lichess.pgn
