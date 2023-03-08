@@ -8,6 +8,6 @@ archives=$(curl https://api.chess.com/pub/player/pnmadelaine/games/archives | jq
 for url in $archives
 do
     json=$(curl "$url")
-    echo "$json" >> chesscom.json
+    echo "$json" | jq >> chesscom.json
     echo "$json" | jq -r ".games[].pgn" >> chesscom.pgn
 done
