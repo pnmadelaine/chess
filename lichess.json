@@ -20596,6 +20596,7 @@
     "black": {
       "user": {
         "name": "KarimElghotmy",
+        "patron": true,
         "id": "karimelghotmy"
       },
       "rating": 1335,
@@ -30203,7 +30204,6 @@
     "black": {
       "user": {
         "name": "srcsrc270259",
-        "patron": true,
         "id": "srcsrc270259"
       },
       "rating": 1457,
@@ -38436,7 +38436,6 @@
     "black": {
       "user": {
         "name": "SomsGc",
-        "patron": true,
         "id": "somsgc"
       },
       "rating": 1562,
@@ -47334,6 +47333,2819 @@
     26626
   ],
   "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/UyxePErC\"]\n[Date \"2023.04.08\"]\n[White \"pnmadelaine\"]\n[Black \"carlore\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.08\"]\n[UTCTime \"06:07:23\"]\n[WhiteElo \"1551\"]\n[BlackElo \"1576\"]\n[WhiteRatingDiff \"-5\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:57] } 3... exd4 { [%clk 0:09:58] } 4. Nxd4 { [%clk 0:09:56] } 4... Bd6 { [%clk 0:09:46] } 5. Bb5 { [%clk 0:09:35] } 5... Nf6 { [%clk 0:09:44] } 6. Nc3 { [%clk 0:09:28] } 6... O-O { [%clk 0:09:43] } 7. O-O { [%clk 0:08:59] } 7... Ne5 { [%clk 0:09:41] } 8. f3 { [%clk 0:08:47] } 8... h6 { [%clk 0:09:40] } 9. Be3 { [%clk 0:08:33] } 9... a6 { [%clk 0:09:26] } 10. Ba4 { [%clk 0:08:22] } 10... Be7 { [%clk 0:09:18] } 11. Nd5 { [%clk 0:07:38] } 11... Nxd5 { [%clk 0:09:16] } 12. exd5 { [%clk 0:07:36] } 12... d6 { [%clk 0:09:15] } 13. Re1 { [%clk 0:07:30] } 13... Bf6 { [%clk 0:09:12] } 14. Qd2 { [%clk 0:06:42] } 14... Nc4 { [%clk 0:09:03] } 15. Qc3 { [%clk 0:06:31] } 15... Nxe3 { [%clk 0:09:01] } 16. Qxe3 { [%clk 0:06:23] } 16... Bd7 { [%clk 0:08:51] } 17. Bb3 { [%clk 0:06:14] } 17... Re8 { [%clk 0:08:48] } 18. Qd3 { [%clk 0:05:50] } 18... Re5 { [%clk 0:08:02] } 19. f4 { [%clk 0:05:13] } 19... Rh5 { [%clk 0:07:53] } 20. Qf3 { [%clk 0:04:54] } 20... Bxd4+ { [%clk 0:07:30] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "y9Y3Hzsv",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1680972965684,
+  "lastMoveAt": 1680973313711,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "Daniel_Isaias",
+        "id": "daniel_isaias"
+      },
+      "rating": 1545,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1546,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "d4 d5 Nd2 Nc6 Nb3 e5 e3 e4 a3 Nf6 Qd2 Be7 Qc3 O-O h4 a5 Nd2 b5 b3 b4 Qxc6 Ra6 Qb5 c6 Qe2 Bg4 Qxa6",
+  "clocks": [
+    60003,
+    60003,
+    59571,
+    59571,
+    59251,
+    58155,
+    58539,
+    55227,
+    57155,
+    54499,
+    56723,
+    51763,
+    56459,
+    49755,
+    55835,
+    47091,
+    55115,
+    43651,
+    54723,
+    43059,
+    53747,
+    40315,
+    52035,
+    37867,
+    51059,
+    36731,
+    50325,
+    36484
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/y9Y3Hzsv\"]\n[Date \"2023.04.08\"]\n[White \"Daniel_Isaias\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.08\"]\n[UTCTime \"16:56:05\"]\n[WhiteElo \"1545\"]\n[BlackElo \"1546\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"D00\"]\n[Termination \"Normal\"]\n\n1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. Nd2 { [%clk 0:09:56] } 2... Nc6 { [%clk 0:09:56] } 3. Nb3 { [%clk 0:09:53] } 3... e5 { [%clk 0:09:42] } 4. e3 { [%clk 0:09:45] } 4... e4 { [%clk 0:09:12] } 5. a3 { [%clk 0:09:32] } 5... Nf6 { [%clk 0:09:05] } 6. Qd2 { [%clk 0:09:27] } 6... Be7 { [%clk 0:08:38] } 7. Qc3 { [%clk 0:09:25] } 7... O-O { [%clk 0:08:18] } 8. h4 { [%clk 0:09:18] } 8... a5 { [%clk 0:07:51] } 9. Nd2 { [%clk 0:09:11] } 9... b5 { [%clk 0:07:17] } 10. b3 { [%clk 0:09:07] } 10... b4 { [%clk 0:07:11] } 11. Qxc6 { [%clk 0:08:57] } 11... Ra6 { [%clk 0:06:43] } 12. Qb5 { [%clk 0:08:40] } 12... c6 { [%clk 0:06:19] } 13. Qe2 { [%clk 0:08:31] } 13... Bg4 { [%clk 0:06:07] } 14. Qxa6 { [%clk 0:08:23] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "TXU7Nr7u",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1680973366730,
+  "lastMoveAt": 1680973823066,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1540,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "Elcotua",
+        "id": "elcotua"
+      },
+      "rating": 1539,
+      "ratingDiff": -5
+    }
+  },
+  "winner": "white",
+  "moves": "e4 d5 exd5 Qxd5 Nc3 Qd8 d4 c6 Bc4 e6 Nf3 h6 O-O Nf6 Bf4 Bd6 Ne5 Qb6 Nxf7 Kxf7 Bxd6 Rd8 Be5 Kg8 Bxf6 gxf6 Qg4+ Kh7 Bxe6 Bxe6 Qxe6 c5 Qf7+ Kh8 dxc5 Qc6 Rad1 Rxd1 Rxd1 Na6 Rd7",
+  "clocks": [
+    60003,
+    60003,
+    59803,
+    59339,
+    59683,
+    59155,
+    59395,
+    58987,
+    58835,
+    58827,
+    58523,
+    58691,
+    58235,
+    58539,
+    55955,
+    58235,
+    52715,
+    56795,
+    47355,
+    56203,
+    46395,
+    54955,
+    44075,
+    53619,
+    42547,
+    53371,
+    41427,
+    52739,
+    39123,
+    51219,
+    38963,
+    49499,
+    36803,
+    48123,
+    33747,
+    46763,
+    32259,
+    46387,
+    32259,
+    45587,
+    30170,
+    41089
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/TXU7Nr7u\"]\n[Date \"2023.04.08\"]\n[White \"pnmadelaine\"]\n[Black \"Elcotua\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.08\"]\n[UTCTime \"17:02:46\"]\n[WhiteElo \"1540\"]\n[BlackElo \"1539\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-5\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:58] } 2... Qxd5 { [%clk 0:09:53] } 3. Nc3 { [%clk 0:09:57] } 3... Qd8 { [%clk 0:09:52] } 4. d4 { [%clk 0:09:54] } 4... c6 { [%clk 0:09:50] } 5. Bc4 { [%clk 0:09:48] } 5... e6 { [%clk 0:09:48] } 6. Nf3 { [%clk 0:09:45] } 6... h6 { [%clk 0:09:47] } 7. O-O { [%clk 0:09:42] } 7... Nf6 { [%clk 0:09:45] } 8. Bf4 { [%clk 0:09:20] } 8... Bd6 { [%clk 0:09:42] } 9. Ne5 { [%clk 0:08:47] } 9... Qb6 { [%clk 0:09:28] } 10. Nxf7 { [%clk 0:07:54] } 10... Kxf7 { [%clk 0:09:22] } 11. Bxd6 { [%clk 0:07:44] } 11... Rd8 { [%clk 0:09:10] } 12. Be5 { [%clk 0:07:21] } 12... Kg8 { [%clk 0:08:56] } 13. Bxf6 { [%clk 0:07:05] } 13... gxf6 { [%clk 0:08:54] } 14. Qg4+ { [%clk 0:06:54] } 14... Kh7 { [%clk 0:08:47] } 15. Bxe6 { [%clk 0:06:31] } 15... Bxe6 { [%clk 0:08:32] } 16. Qxe6 { [%clk 0:06:30] } 16... c5 { [%clk 0:08:15] } 17. Qf7+ { [%clk 0:06:08] } 17... Kh8 { [%clk 0:08:01] } 18. dxc5 { [%clk 0:05:37] } 18... Qc6 { [%clk 0:07:48] } 19. Rad1 { [%clk 0:05:23] } 19... Rxd1 { [%clk 0:07:44] } 20. Rxd1 { [%clk 0:05:23] } 20... Na6 { [%clk 0:07:36] } 21. Rd7 { [%clk 0:05:02] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "vWreZh21",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681077084809,
+  "lastMoveAt": 1681077712402,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "MF811",
+        "id": "mf811"
+      },
+      "rating": 1540,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1546,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 exd5 Nf6 Nc3 Nxd5 Nxd5 Qxd5 c4 Qe4+ Qe2 Qxe2+ Bxe2 e5 d3 Bf5 g4 Bg6 Bf3 c6 Be2 Bc5 b3 O-O Bb2 Bb4+ Kd1 e4 d4 Nd7 f4 exf3 Nxf3 Nf6 a3 Ba5 b4 Bc7 Ne5 Ne4 Ke1 Bxe5 dxe5 Rfe8 Bd3 Rad8 Ke2 Rxd3 Kxd3 Nf2+ Kd4 Nxh1 Rxh1 Rd8+ Kc5 Be4 Re1 b6#",
+  "clocks": [
+    60003,
+    60003,
+    59595,
+    59915,
+    58987,
+    59763,
+    58707,
+    59763,
+    57867,
+    58307,
+    56931,
+    58099,
+    56699,
+    57963,
+    56043,
+    56795,
+    54963,
+    56363,
+    54403,
+    55571,
+    53411,
+    53699,
+    52787,
+    53323,
+    52539,
+    51387,
+    51147,
+    50659,
+    49035,
+    43955,
+    48835,
+    42203,
+    48131,
+    38283,
+    46515,
+    35891,
+    45595,
+    35547,
+    45123,
+    32891,
+    42419,
+    29259,
+    42419,
+    27643,
+    42043,
+    26203,
+    41003,
+    25267,
+    40195,
+    25075,
+    39731,
+    25075,
+    39307,
+    23107,
+    38795,
+    21099,
+    38227,
+    20891
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/vWreZh21\"]\n[Date \"2023.04.09\"]\n[White \"MF811\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.09\"]\n[UTCTime \"21:51:24\"]\n[WhiteElo \"1540\"]\n[BlackElo \"1546\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:56] } 2... Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:50] } 3... Nxd5 { [%clk 0:09:58] } 4. Nxd5 { [%clk 0:09:47] } 4... Qxd5 { [%clk 0:09:58] } 5. c4 { [%clk 0:09:39] } 5... Qe4+ { [%clk 0:09:43] } 6. Qe2 { [%clk 0:09:29] } 6... Qxe2+ { [%clk 0:09:41] } 7. Bxe2 { [%clk 0:09:27] } 7... e5 { [%clk 0:09:40] } 8. d3 { [%clk 0:09:20] } 8... Bf5 { [%clk 0:09:28] } 9. g4 { [%clk 0:09:10] } 9... Bg6 { [%clk 0:09:24] } 10. Bf3 { [%clk 0:09:04] } 10... c6 { [%clk 0:09:16] } 11. Be2 { [%clk 0:08:54] } 11... Bc5 { [%clk 0:08:57] } 12. b3 { [%clk 0:08:48] } 12... O-O { [%clk 0:08:53] } 13. Bb2 { [%clk 0:08:45] } 13... Bb4+ { [%clk 0:08:34] } 14. Kd1 { [%clk 0:08:31] } 14... e4 { [%clk 0:08:27] } 15. d4 { [%clk 0:08:10] } 15... Nd7 { [%clk 0:07:20] } 16. f4 { [%clk 0:08:08] } 16... exf3 { [%clk 0:07:02] } 17. Nxf3 { [%clk 0:08:01] } 17... Nf6 { [%clk 0:06:23] } 18. a3 { [%clk 0:07:45] } 18... Ba5 { [%clk 0:05:59] } 19. b4 { [%clk 0:07:36] } 19... Bc7 { [%clk 0:05:55] } 20. Ne5 { [%clk 0:07:31] } 20... Ne4 { [%clk 0:05:29] } 21. Ke1 { [%clk 0:07:04] } 21... Bxe5 { [%clk 0:04:53] } 22. dxe5 { [%clk 0:07:04] } 22... Rfe8 { [%clk 0:04:36] } 23. Bd3 { [%clk 0:07:00] } 23... Rad8 { [%clk 0:04:22] } 24. Ke2 { [%clk 0:06:50] } 24... Rxd3 { [%clk 0:04:13] } 25. Kxd3 { [%clk 0:06:42] } 25... Nf2+ { [%clk 0:04:11] } 26. Kd4 { [%clk 0:06:37] } 26... Nxh1 { [%clk 0:04:11] } 27. Rxh1 { [%clk 0:06:33] } 27... Rd8+ { [%clk 0:03:51] } 28. Kc5 { [%clk 0:06:28] } 28... Be4 { [%clk 0:03:31] } 29. Re1 { [%clk 0:06:22] } 29... b6# { [%clk 0:03:29] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "T4aa5KwJ",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681082471385,
+  "lastMoveAt": 1681083317261,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "ayman_alhelo",
+        "id": "ayman_alhelo"
+      },
+      "rating": 1569,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1552,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "g3 e5 Bg2 d5 b3 Nc6 Bb2 Nf6 d3 Bc5 e3 O-O a3 a5 c3 Bf5 Qd2 e4 Bh3 Bg6 Bf1 exd3 Bxd3 Ne4 Bxe4 Bxe4 f3 Bg6 b4 axb4 axb4 Bb6 Rxa8 Qxa8 Na3 Re8 Qxd5 Rxe3+ Kd2 Rd3+ Qxd3 Bxd3 Kxd3 Qd8+ Kc2 Be3 Bc1 Bxc1 Kxc1 Ne5 Ne2 Nd3+ Kc2 Nf2 Rf1 Qd3+ Kc1 Qxe2 Rg1 Nd3+ Kb1 Qb2#",
+  "clocks": [
+    60003,
+    60003,
+    59819,
+    59595,
+    59587,
+    58259,
+    59347,
+    57771,
+    59115,
+    57019,
+    58491,
+    55907,
+    58195,
+    50555,
+    56891,
+    48075,
+    56299,
+    46347,
+    54515,
+    43291,
+    53155,
+    40923,
+    52867,
+    40099,
+    51379,
+    39659,
+    51155,
+    38107,
+    50115,
+    36531,
+    49763,
+    32891,
+    49219,
+    32731,
+    47947,
+    31483,
+    41515,
+    30595,
+    41275,
+    29971,
+    40899,
+    29851,
+    40771,
+    27827,
+    40099,
+    25059,
+    37267,
+    22395,
+    37043,
+    21475,
+    34723,
+    20875,
+    33843,
+    19227,
+    33307,
+    18835,
+    28539,
+    14587,
+    24651,
+    13211,
+    24282,
+    12968
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/T4aa5KwJ\"]\n[Date \"2023.04.09\"]\n[White \"ayman_alhelo\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.09\"]\n[UTCTime \"23:21:11\"]\n[WhiteElo \"1569\"]\n[BlackElo \"1552\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"A00\"]\n[Termination \"Normal\"]\n\n1. g3 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Bg2 { [%clk 0:09:58] } 2... d5 { [%clk 0:09:56] } 3. b3 { [%clk 0:09:56] } 3... Nc6 { [%clk 0:09:43] } 4. Bb2 { [%clk 0:09:53] } 4... Nf6 { [%clk 0:09:38] } 5. d3 { [%clk 0:09:51] } 5... Bc5 { [%clk 0:09:30] } 6. e3 { [%clk 0:09:45] } 6... O-O { [%clk 0:09:19] } 7. a3 { [%clk 0:09:42] } 7... a5 { [%clk 0:08:26] } 8. c3 { [%clk 0:09:29] } 8... Bf5 { [%clk 0:08:01] } 9. Qd2 { [%clk 0:09:23] } 9... e4 { [%clk 0:07:43] } 10. Bh3 { [%clk 0:09:05] } 10... Bg6 { [%clk 0:07:13] } 11. Bf1 { [%clk 0:08:52] } 11... exd3 { [%clk 0:06:49] } 12. Bxd3 { [%clk 0:08:49] } 12... Ne4 { [%clk 0:06:41] } 13. Bxe4 { [%clk 0:08:34] } 13... Bxe4 { [%clk 0:06:37] } 14. f3 { [%clk 0:08:32] } 14... Bg6 { [%clk 0:06:21] } 15. b4 { [%clk 0:08:21] } 15... axb4 { [%clk 0:06:05] } 16. axb4 { [%clk 0:08:18] } 16... Bb6 { [%clk 0:05:29] } 17. Rxa8 { [%clk 0:08:12] } 17... Qxa8 { [%clk 0:05:27] } 18. Na3 { [%clk 0:07:59] } 18... Re8 { [%clk 0:05:15] } 19. Qxd5 { [%clk 0:06:55] } 19... Rxe3+ { [%clk 0:05:06] } 20. Kd2 { [%clk 0:06:53] } 20... Rd3+ { [%clk 0:05:00] } 21. Qxd3 { [%clk 0:06:49] } 21... Bxd3 { [%clk 0:04:59] } 22. Kxd3 { [%clk 0:06:48] } 22... Qd8+ { [%clk 0:04:38] } 23. Kc2 { [%clk 0:06:41] } 23... Be3 { [%clk 0:04:11] } 24. Bc1 { [%clk 0:06:13] } 24... Bxc1 { [%clk 0:03:44] } 25. Kxc1 { [%clk 0:06:10] } 25... Ne5 { [%clk 0:03:35] } 26. Ne2 { [%clk 0:05:47] } 26... Nd3+ { [%clk 0:03:29] } 27. Kc2 { [%clk 0:05:38] } 27... Nf2 { [%clk 0:03:12] } 28. Rf1 { [%clk 0:05:33] } 28... Qd3+ { [%clk 0:03:08] } 29. Kc1 { [%clk 0:04:45] } 29... Qxe2 { [%clk 0:02:26] } 30. Rg1 { [%clk 0:04:07] } 30... Nd3+ { [%clk 0:02:12] } 31. Kb1 { [%clk 0:04:03] } 31... Qb2# { [%clk 0:02:10] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "dcM0E845",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681083530170,
+  "lastMoveAt": 1681083879939,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1558,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "DanySalta",
+        "id": "danysalta"
+      },
+      "rating": 1488,
+      "ratingDiff": -4
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 Qf6 Qxf6 Nxf6 Nc3 Bc5 Bf4 d6 O-O-O Bg4 Rd2 Bb4 Rd3 Bxc3 Rxc3 Nxe4 Rxc7 O-O f3 Nf2 Rg1 Be6 Bb5 b6 Bxd6 Bxa2 Bxf8 Rxf8 Rxa7 Re8 Bxe8",
+  "clocks": [
+    60003,
+    60003,
+    59827,
+    59891,
+    59771,
+    58467,
+    59699,
+    58251,
+    59643,
+    58091,
+    57619,
+    57955,
+    57059,
+    57747,
+    54651,
+    56491,
+    54355,
+    56099,
+    53811,
+    55371,
+    46659,
+    53259,
+    46475,
+    52779,
+    46267,
+    52355,
+    46011,
+    52019,
+    43251,
+    51723,
+    39603,
+    50979,
+    38699,
+    50643,
+    38323,
+    50427,
+    37587,
+    49587,
+    37123,
+    49470
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/dcM0E845\"]\n[Date \"2023.04.09\"]\n[White \"pnmadelaine\"]\n[Black \"DanySalta\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.09\"]\n[UTCTime \"23:38:50\"]\n[WhiteElo \"1558\"]\n[BlackElo \"1488\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-4\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:45] } 4. Nxd4 { [%clk 0:09:57] } 4... Nxd4 { [%clk 0:09:43] } 5. Qxd4 { [%clk 0:09:56] } 5... Qf6 { [%clk 0:09:41] } 6. Qxf6 { [%clk 0:09:36] } 6... Nxf6 { [%clk 0:09:40] } 7. Nc3 { [%clk 0:09:31] } 7... Bc5 { [%clk 0:09:37] } 8. Bf4 { [%clk 0:09:07] } 8... d6 { [%clk 0:09:25] } 9. O-O-O { [%clk 0:09:04] } 9... Bg4 { [%clk 0:09:21] } 10. Rd2 { [%clk 0:08:58] } 10... Bb4 { [%clk 0:09:14] } 11. Rd3 { [%clk 0:07:47] } 11... Bxc3 { [%clk 0:08:53] } 12. Rxc3 { [%clk 0:07:45] } 12... Nxe4 { [%clk 0:08:48] } 13. Rxc7 { [%clk 0:07:43] } 13... O-O { [%clk 0:08:44] } 14. f3 { [%clk 0:07:40] } 14... Nf2 { [%clk 0:08:40] } 15. Rg1 { [%clk 0:07:13] } 15... Be6 { [%clk 0:08:37] } 16. Bb5 { [%clk 0:06:36] } 16... b6 { [%clk 0:08:30] } 17. Bxd6 { [%clk 0:06:27] } 17... Bxa2 { [%clk 0:08:26] } 18. Bxf8 { [%clk 0:06:23] } 18... Rxf8 { [%clk 0:08:24] } 19. Rxa7 { [%clk 0:06:16] } 19... Re8 { [%clk 0:08:16] } 20. Bxe8 { [%clk 0:06:11] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "feOlJQ2e",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681083951905,
+  "lastMoveAt": 1681084164878,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "aliakbar13",
+        "id": "aliakbar13"
+      },
+      "rating": 1550,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1563,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "d4 d5 Bf4 Nc6 Nf3 Bf5 c3 e6 e3 Nf6 Nbd2 Bd6 Bg3 O-O Qb3 Na5 Qb5 b6 b4 a6 Qa4 b5 Qxa5",
+  "clocks": [
+    60003,
+    60003,
+    59859,
+    59755,
+    59723,
+    59203,
+    59499,
+    56427,
+    58915,
+    56035,
+    58771,
+    55467,
+    58291,
+    52483,
+    57555,
+    50507,
+    56699,
+    49883,
+    55275,
+    47579,
+    54523,
+    45659,
+    54238,
+    44593
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/feOlJQ2e\"]\n[Date \"2023.04.09\"]\n[White \"aliakbar13\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.09\"]\n[UTCTime \"23:45:51\"]\n[WhiteElo \"1550\"]\n[BlackElo \"1563\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"D00\"]\n[Termination \"Normal\"]\n\n1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. Bf4 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:58] } 3. Nf3 { [%clk 0:09:57] } 3... Bf5 { [%clk 0:09:52] } 4. c3 { [%clk 0:09:55] } 4... e6 { [%clk 0:09:24] } 5. e3 { [%clk 0:09:49] } 5... Nf6 { [%clk 0:09:20] } 6. Nbd2 { [%clk 0:09:48] } 6... Bd6 { [%clk 0:09:15] } 7. Bg3 { [%clk 0:09:43] } 7... O-O { [%clk 0:08:45] } 8. Qb3 { [%clk 0:09:36] } 8... Na5 { [%clk 0:08:25] } 9. Qb5 { [%clk 0:09:27] } 9... b6 { [%clk 0:08:19] } 10. b4 { [%clk 0:09:13] } 10... a6 { [%clk 0:07:56] } 11. Qa4 { [%clk 0:09:05] } 11... b5 { [%clk 0:07:37] } 12. Qxa5 { [%clk 0:09:02] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "VN4n39sq",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681084179670,
+  "lastMoveAt": 1681084610748,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1557,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "Oggionsss",
+        "id": "oggionsss"
+      },
+      "rating": 1550,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nge7 Nc3 Nxd4 Qxd4 Nc6 Qd3 Nb4 Qd2 Bd6 a3 Bf4 Qxf4 Nxc2+ Kd1 Nxa1 Bc4 O-O b3 c6 Bb2 g5 Qg3 Nxb3 Bxb3 h6 h4 d6 hxg5 Qxg5 Qxg5+ hxg5 Nd5 f6 Nxf6+ Kg7 Nd7+ Kg6 Nxf8#",
+  "clocks": [
+    60003,
+    60003,
+    59619,
+    59899,
+    59539,
+    59275,
+    59443,
+    59091,
+    58555,
+    58643,
+    58379,
+    58571,
+    57131,
+    57771,
+    55355,
+    56779,
+    54315,
+    56339,
+    52875,
+    56203,
+    52203,
+    56067,
+    51155,
+    55851,
+    49539,
+    54507,
+    49043,
+    51067,
+    44691,
+    49099,
+    44475,
+    48595,
+    42603,
+    46803,
+    41603,
+    46611,
+    39499,
+    46387,
+    38811,
+    45523,
+    34483,
+    45171,
+    34203,
+    44589,
+    34028
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/VN4n39sq\"]\n[Date \"2023.04.09\"]\n[White \"pnmadelaine\"]\n[Black \"Oggionsss\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.09\"]\n[UTCTime \"23:49:39\"]\n[WhiteElo \"1557\"]\n[BlackElo \"1550\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:56] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:55] } 3... exd4 { [%clk 0:09:53] } 4. Nxd4 { [%clk 0:09:54] } 4... Nge7 { [%clk 0:09:51] } 5. Nc3 { [%clk 0:09:46] } 5... Nxd4 { [%clk 0:09:46] } 6. Qxd4 { [%clk 0:09:44] } 6... Nc6 { [%clk 0:09:46] } 7. Qd3 { [%clk 0:09:31] } 7... Nb4 { [%clk 0:09:38] } 8. Qd2 { [%clk 0:09:14] } 8... Bd6 { [%clk 0:09:28] } 9. a3 { [%clk 0:09:03] } 9... Bf4 { [%clk 0:09:23] } 10. Qxf4 { [%clk 0:08:49] } 10... Nxc2+ { [%clk 0:09:22] } 11. Kd1 { [%clk 0:08:42] } 11... Nxa1 { [%clk 0:09:21] } 12. Bc4 { [%clk 0:08:32] } 12... O-O { [%clk 0:09:19] } 13. b3 { [%clk 0:08:15] } 13... c6 { [%clk 0:09:05] } 14. Bb2 { [%clk 0:08:10] } 14... g5 { [%clk 0:08:31] } 15. Qg3 { [%clk 0:07:27] } 15... Nxb3 { [%clk 0:08:11] } 16. Bxb3 { [%clk 0:07:25] } 16... h6 { [%clk 0:08:06] } 17. h4 { [%clk 0:07:06] } 17... d6 { [%clk 0:07:48] } 18. hxg5 { [%clk 0:06:56] } 18... Qxg5 { [%clk 0:07:46] } 19. Qxg5+ { [%clk 0:06:35] } 19... hxg5 { [%clk 0:07:44] } 20. Nd5 { [%clk 0:06:28] } 20... f6 { [%clk 0:07:35] } 21. Nxf6+ { [%clk 0:05:45] } 21... Kg7 { [%clk 0:07:32] } 22. Nd7+ { [%clk 0:05:42] } 22... Kg6 { [%clk 0:07:26] } 23. Nxf8# { [%clk 0:05:40] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "6V2LP2MO",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681149490212,
+  "lastMoveAt": 1681149804425,
+  "status": "timeout",
+  "players": {
+    "white": {
+      "user": {
+        "name": "Nikhil_Sharma",
+        "id": "nikhil_sharma"
+      },
+      "rating": 1570,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1562,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 exd5 Nf6 c4 c6 dxc6 Nxc6 d3 Bf5 h3 e5 Be2 Bc5 Nf3 O-O O-O Qd7 Nh2 Rfd8 Bg4 Qxd3 Qxd3 Bxd3 Re1 Bxc4 Nc3 Nb4 Rxe5 Bd6",
+  "clocks": [
+    60003,
+    60003,
+    59875,
+    59923,
+    59379,
+    59787,
+    59235,
+    59787,
+    59035,
+    59107,
+    58795,
+    56555,
+    58603,
+    53755,
+    58307,
+    50963,
+    58131,
+    49411,
+    57731,
+    48275,
+    57179,
+    43867,
+    56779,
+    43019,
+    56139,
+    41507,
+    55547,
+    39387,
+    54427,
+    35418,
+    35458
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/6V2LP2MO\"]\n[Date \"2023.04.10\"]\n[White \"Nikhil_Sharma\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.10\"]\n[UTCTime \"17:58:10\"]\n[WhiteElo \"1570\"]\n[BlackElo \"1562\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Time forfeit\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:59] } 3. c4 { [%clk 0:09:54] } 3... c6 { [%clk 0:09:58] } 4. dxc6 { [%clk 0:09:52] } 4... Nxc6 { [%clk 0:09:58] } 5. d3 { [%clk 0:09:50] } 5... Bf5 { [%clk 0:09:51] } 6. h3 { [%clk 0:09:48] } 6... e5 { [%clk 0:09:26] } 7. Be2 { [%clk 0:09:46] } 7... Bc5 { [%clk 0:08:58] } 8. Nf3 { [%clk 0:09:43] } 8... O-O { [%clk 0:08:30] } 9. O-O { [%clk 0:09:41] } 9... Qd7 { [%clk 0:08:14] } 10. Nh2 { [%clk 0:09:37] } 10... Rfd8 { [%clk 0:08:03] } 11. Bg4 { [%clk 0:09:32] } 11... Qxd3 { [%clk 0:07:19] } 12. Qxd3 { [%clk 0:09:28] } 12... Bxd3 { [%clk 0:07:10] } 13. Re1 { [%clk 0:09:21] } 13... Bxc4 { [%clk 0:06:55] } 14. Nc3 { [%clk 0:09:15] } 14... Nb4 { [%clk 0:06:34] } 15. Rxe5 { [%clk 0:09:04] } 15... Bd6 { [%clk 0:05:54] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "Nqdjg4X0",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681216637397,
+  "lastMoveAt": 1681216688829,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1568,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "AndrianPaul10",
+        "id": "andrianpaul10"
+      },
+      "rating": 1586,
+      "ratingDiff": -7
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 Qg5",
+  "clocks": [
+    60003,
+    60003,
+    59875,
+    59899,
+    59803,
+    57131,
+    59715,
+    57019,
+    59595,
+    55885,
+    59318
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/Nqdjg4X0\"]\n[Date \"2023.04.11\"]\n[White \"pnmadelaine\"]\n[Black \"AndrianPaul10\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"12:37:17\"]\n[WhiteElo \"1568\"]\n[BlackElo \"1586\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:31] } 4. Nxd4 { [%clk 0:09:57] } 4... Nxd4 { [%clk 0:09:30] } 5. Qxd4 { [%clk 0:09:56] } 5... Qg5 { [%clk 0:09:19] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "DNgnN5fD",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681216717018,
+  "lastMoveAt": 1681217046142,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1574,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "lianen",
+        "id": "lianen"
+      },
+      "rating": 1556,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 Nf6 e5 c5 Qc4 d5 exd6 Bxd6 Be2 O-O O-O Re8 Bg5 a6 Nc3 b5 Qd3 c4 Qf3 Bg4 Qxa8 Qxa8 Bxf6 Bxe2",
+  "clocks": [
+    60003,
+    60003,
+    59923,
+    59859,
+    59859,
+    59699,
+    59787,
+    59619,
+    59739,
+    59451,
+    59355,
+    58411,
+    55723,
+    57011,
+    53059,
+    56123,
+    49707,
+    54803,
+    49363,
+    54675,
+    48227,
+    53611,
+    47683,
+    53419,
+    44555,
+    53235,
+    43523,
+    52363,
+    37491,
+    51051,
+    37251,
+    50740,
+    35319
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/DNgnN5fD\"]\n[Date \"2023.04.11\"]\n[White \"pnmadelaine\"]\n[Black \"lianen\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"12:38:37\"]\n[WhiteElo \"1574\"]\n[BlackElo \"1556\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:59] } 3... exd4 { [%clk 0:09:57] } 4. Nxd4 { [%clk 0:09:58] } 4... Nxd4 { [%clk 0:09:56] } 5. Qxd4 { [%clk 0:09:57] } 5... Nf6 { [%clk 0:09:55] } 6. e5 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:44] } 7. Qc4 { [%clk 0:09:17] } 7... d5 { [%clk 0:09:30] } 8. exd6 { [%clk 0:08:51] } 8... Bxd6 { [%clk 0:09:21] } 9. Be2 { [%clk 0:08:17] } 9... O-O { [%clk 0:09:08] } 10. O-O { [%clk 0:08:14] } 10... Re8 { [%clk 0:09:07] } 11. Bg5 { [%clk 0:08:02] } 11... a6 { [%clk 0:08:56] } 12. Nc3 { [%clk 0:07:57] } 12... b5 { [%clk 0:08:54] } 13. Qd3 { [%clk 0:07:26] } 13... c4 { [%clk 0:08:52] } 14. Qf3 { [%clk 0:07:15] } 14... Bg4 { [%clk 0:08:44] } 15. Qxa8 { [%clk 0:06:15] } 15... Qxa8 { [%clk 0:08:31] } 16. Bxf6 { [%clk 0:06:13] } 16... Bxe2 { [%clk 0:08:27] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "OWiAy9Fn",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681217142970,
+  "lastMoveAt": 1681217541404,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1568,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "CountCringeackh",
+        "id": "countcringeackh"
+      },
+      "rating": 1523,
+      "ratingDiff": -7
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 c5 Qd3 Nf6 f3 Qc7 Be3 d5 exd5 a6 Nc3 b5 O-O-O c4 Qd4 Bb7 g4 O-O-O g5 Ne8 Bh3+ Kb8 Bf4 Bd6 Be3 Bxh2 Qa7#",
+  "clocks": [
+    60003,
+    60003,
+    59875,
+    59467,
+    59795,
+    58539,
+    59707,
+    58443,
+    59643,
+    58355,
+    59507,
+    57451,
+    59131,
+    56203,
+    56267,
+    55571,
+    54531,
+    53219,
+    52411,
+    52827,
+    50267,
+    52331,
+    49331,
+    50635,
+    44403,
+    50403,
+    42587,
+    46035,
+    42235,
+    45411,
+    42139,
+    44723,
+    37691,
+    44394,
+    37070
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/OWiAy9Fn\"]\n[Date \"2023.04.11\"]\n[White \"pnmadelaine\"]\n[Black \"CountCringeackh\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"12:45:42\"]\n[WhiteElo \"1568\"]\n[BlackElo \"1523\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:55] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:45] } 4. Nxd4 { [%clk 0:09:57] } 4... Nxd4 { [%clk 0:09:44] } 5. Qxd4 { [%clk 0:09:56] } 5... c5 { [%clk 0:09:44] } 6. Qd3 { [%clk 0:09:55] } 6... Nf6 { [%clk 0:09:35] } 7. f3 { [%clk 0:09:51] } 7... Qc7 { [%clk 0:09:22] } 8. Be3 { [%clk 0:09:23] } 8... d5 { [%clk 0:09:16] } 9. exd5 { [%clk 0:09:05] } 9... a6 { [%clk 0:08:52] } 10. Nc3 { [%clk 0:08:44] } 10... b5 { [%clk 0:08:48] } 11. O-O-O { [%clk 0:08:23] } 11... c4 { [%clk 0:08:43] } 12. Qd4 { [%clk 0:08:13] } 12... Bb7 { [%clk 0:08:26] } 13. g4 { [%clk 0:07:24] } 13... O-O-O { [%clk 0:08:24] } 14. g5 { [%clk 0:07:06] } 14... Ne8 { [%clk 0:07:40] } 15. Bh3+ { [%clk 0:07:02] } 15... Kb8 { [%clk 0:07:34] } 16. Bf4 { [%clk 0:07:01] } 16... Bd6 { [%clk 0:07:27] } 17. Be3 { [%clk 0:06:17] } 17... Bxh2 { [%clk 0:07:24] } 18. Qa7# { [%clk 0:06:11] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "E9rlXek5",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681225301823,
+  "lastMoveAt": 1681225346056,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1573,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "IulianVoiculescu",
+        "id": "iulianvoiculescu"
+      },
+      "rating": 1573,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 Nf6 e5 Qe7 Be3 d6 exf6",
+  "clocks": [
+    60003,
+    60003,
+    59923,
+    59643,
+    59819,
+    59307,
+    59771,
+    59139,
+    59715,
+    58923,
+    59515,
+    58635,
+    58875,
+    58155,
+    58110,
+    57579
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/E9rlXek5\"]\n[Date \"2023.04.11\"]\n[White \"pnmadelaine\"]\n[Black \"IulianVoiculescu\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"15:01:41\"]\n[WhiteElo \"1573\"]\n[BlackElo \"1573\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:56] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:53] } 4. Nxd4 { [%clk 0:09:58] } 4... Nxd4 { [%clk 0:09:51] } 5. Qxd4 { [%clk 0:09:57] } 5... Nf6 { [%clk 0:09:49] } 6. e5 { [%clk 0:09:55] } 6... Qe7 { [%clk 0:09:46] } 7. Be3 { [%clk 0:09:49] } 7... d6 { [%clk 0:09:42] } 8. exf6 { [%clk 0:09:41] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "LipF8r9q",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681225356653,
+  "lastMoveAt": 1681225674341,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "IulianVoiculescu",
+        "id": "iulianvoiculescu"
+      },
+      "rating": 1567,
+      "ratingDiff": -5
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1579,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 exd5 Nf6 Nc3 Nxd5 Nxd5 Qxd5 Nf3 e5 d3 Bg4 Be2 Nc6 c3 O-O-O O-O Bxf3 Bxf3 Qxd3 Qxd3 Rxd3 Bxc6 bxc6 Be3 Kb7 Rfd1 Rxd1+ Rxd1 Bd6 b4 Rd8 Kf1 f5 f4 exf4 Bxf4 h6 a4 Kc8 Be3 Bxh2 Bxa7 Rxd1+",
+  "clocks": [
+    60003,
+    60003,
+    59859,
+    59923,
+    59603,
+    59803,
+    59067,
+    59803,
+    58563,
+    59315,
+    58051,
+    57835,
+    57515,
+    57443,
+    57131,
+    56475,
+    56603,
+    54483,
+    56379,
+    54291,
+    55259,
+    54291,
+    55115,
+    54155,
+    54899,
+    53507,
+    54571,
+    51923,
+    54395,
+    51731,
+    53667,
+    51163,
+    52035,
+    49259,
+    50243,
+    48179,
+    50019,
+    46051,
+    47715,
+    45571,
+    45827,
+    44067,
+    45539,
+    43794,
+    45146
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/LipF8r9q\"]\n[Date \"2023.04.11\"]\n[White \"IulianVoiculescu\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"15:02:36\"]\n[WhiteElo \"1567\"]\n[BlackElo \"1579\"]\n[WhiteRatingDiff \"-5\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:56] } 3... Nxd5 { [%clk 0:09:58] } 4. Nxd5 { [%clk 0:09:51] } 4... Qxd5 { [%clk 0:09:58] } 5. Nf3 { [%clk 0:09:46] } 5... e5 { [%clk 0:09:53] } 6. d3 { [%clk 0:09:41] } 6... Bg4 { [%clk 0:09:38] } 7. Be2 { [%clk 0:09:35] } 7... Nc6 { [%clk 0:09:34] } 8. c3 { [%clk 0:09:31] } 8... O-O-O { [%clk 0:09:25] } 9. O-O { [%clk 0:09:26] } 9... Bxf3 { [%clk 0:09:05] } 10. Bxf3 { [%clk 0:09:24] } 10... Qxd3 { [%clk 0:09:03] } 11. Qxd3 { [%clk 0:09:13] } 11... Rxd3 { [%clk 0:09:03] } 12. Bxc6 { [%clk 0:09:11] } 12... bxc6 { [%clk 0:09:02] } 13. Be3 { [%clk 0:09:09] } 13... Kb7 { [%clk 0:08:55] } 14. Rfd1 { [%clk 0:09:06] } 14... Rxd1+ { [%clk 0:08:39] } 15. Rxd1 { [%clk 0:09:04] } 15... Bd6 { [%clk 0:08:37] } 16. b4 { [%clk 0:08:57] } 16... Rd8 { [%clk 0:08:32] } 17. Kf1 { [%clk 0:08:40] } 17... f5 { [%clk 0:08:13] } 18. f4 { [%clk 0:08:22] } 18... exf4 { [%clk 0:08:02] } 19. Bxf4 { [%clk 0:08:20] } 19... h6 { [%clk 0:07:41] } 20. a4 { [%clk 0:07:57] } 20... Kc8 { [%clk 0:07:36] } 21. Be3 { [%clk 0:07:38] } 21... Bxh2 { [%clk 0:07:21] } 22. Bxa7 { [%clk 0:07:35] } 22... Rxd1+ { [%clk 0:07:18] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "LS180VcV",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681225682532,
+  "lastMoveAt": 1681225920737,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1585,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "IulianVoiculescu",
+        "id": "iulianvoiculescu"
+      },
+      "rating": 1562,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 Nf6 e5 Qe7 Be3 Ng4 Qxg4 Qxe5 Nc3 d5 Qf3 d4 Bc4 Be6 Bxe6 dxe3 Qxf7+",
+  "clocks": [
+    60003,
+    60003,
+    59915,
+    59843,
+    59803,
+    59699,
+    59595,
+    59563,
+    59539,
+    58963,
+    59403,
+    58835,
+    59275,
+    57731,
+    58195,
+    57387,
+    57067,
+    57003,
+    54251,
+    56435,
+    49275,
+    53075,
+    46915,
+    51547,
+    45444,
+    49713
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/LS180VcV\"]\n[Date \"2023.04.11\"]\n[White \"pnmadelaine\"]\n[Black \"IulianVoiculescu\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"15:08:02\"]\n[WhiteElo \"1585\"]\n[BlackElo \"1562\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:58] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:57] } 4. Nxd4 { [%clk 0:09:56] } 4... Nxd4 { [%clk 0:09:56] } 5. Qxd4 { [%clk 0:09:55] } 5... Nf6 { [%clk 0:09:50] } 6. e5 { [%clk 0:09:54] } 6... Qe7 { [%clk 0:09:48] } 7. Be3 { [%clk 0:09:53] } 7... Ng4 { [%clk 0:09:37] } 8. Qxg4 { [%clk 0:09:42] } 8... Qxe5 { [%clk 0:09:34] } 9. Nc3 { [%clk 0:09:31] } 9... d5 { [%clk 0:09:30] } 10. Qf3 { [%clk 0:09:03] } 10... d4 { [%clk 0:09:24] } 11. Bc4 { [%clk 0:08:13] } 11... Be6 { [%clk 0:08:51] } 12. Bxe6 { [%clk 0:07:49] } 12... dxe3 { [%clk 0:08:35] } 13. Qxf7+ { [%clk 0:07:34] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "z1eAzY3j",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681226176069,
+  "lastMoveAt": 1681226956993,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "lxuxer",
+        "id": "lxuxer"
+      },
+      "rating": 1570,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1590,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "d4 d5 e3 Nc6 c4 Nf6 h3 e5 cxd5 Nxd5 dxe5 Nxe5 e4 Nf6 Qxd8+ Kxd8 a3 Nxe4 Be3 Bd6 Be2 Re8 Nf3 Nc6 O-O Bf5 Nc3 Nxc3 bxc3 a6 a4 a5 Bb5 Re6 Nd4 Nxd4 Bxd4 Rg6 g4 c6 Bc4 Ke7 Rae1+ Kf8 Be5 Bxg4 Bxd6+ Rxd6 hxg4 Rg6 f3 f5 Bd3 Rg5 Bxf5",
+  "clocks": [
+    60003,
+    60003,
+    59835,
+    59683,
+    59635,
+    59323,
+    59203,
+    58755,
+    58083,
+    58403,
+    57403,
+    58243,
+    57275,
+    53715,
+    57035,
+    53715,
+    56395,
+    53019,
+    53931,
+    47699,
+    53715,
+    46835,
+    53355,
+    40563,
+    52803,
+    36995,
+    51819,
+    35171,
+    51819,
+    31739,
+    51379,
+    24883,
+    50923,
+    19859,
+    50699,
+    19195,
+    49715,
+    18851,
+    44651,
+    14267,
+    42611,
+    13235,
+    42123,
+    12571,
+    38827,
+    11795,
+    37883,
+    10707,
+    37259,
+    9107,
+    36643,
+    8931,
+    35331,
+    7659,
+    35125,
+    7267
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/z1eAzY3j\"]\n[Date \"2023.04.11\"]\n[White \"lxuxer\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.11\"]\n[UTCTime \"15:16:16\"]\n[WhiteElo \"1570\"]\n[BlackElo \"1590\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"D00\"]\n[Termination \"Normal\"]\n\n1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. e3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:57] } 3. c4 { [%clk 0:09:56] } 3... Nf6 { [%clk 0:09:53] } 4. h3 { [%clk 0:09:52] } 4... e5 { [%clk 0:09:48] } 5. cxd5 { [%clk 0:09:41] } 5... Nxd5 { [%clk 0:09:44] } 6. dxe5 { [%clk 0:09:34] } 6... Nxe5 { [%clk 0:09:42] } 7. e4 { [%clk 0:09:33] } 7... Nf6 { [%clk 0:08:57] } 8. Qxd8+ { [%clk 0:09:30] } 8... Kxd8 { [%clk 0:08:57] } 9. a3 { [%clk 0:09:24] } 9... Nxe4 { [%clk 0:08:50] } 10. Be3 { [%clk 0:08:59] } 10... Bd6 { [%clk 0:07:57] } 11. Be2 { [%clk 0:08:57] } 11... Re8 { [%clk 0:07:48] } 12. Nf3 { [%clk 0:08:54] } 12... Nc6 { [%clk 0:06:46] } 13. O-O { [%clk 0:08:48] } 13... Bf5 { [%clk 0:06:10] } 14. Nc3 { [%clk 0:08:38] } 14... Nxc3 { [%clk 0:05:52] } 15. bxc3 { [%clk 0:08:38] } 15... a6 { [%clk 0:05:17] } 16. a4 { [%clk 0:08:34] } 16... a5 { [%clk 0:04:09] } 17. Bb5 { [%clk 0:08:29] } 17... Re6 { [%clk 0:03:19] } 18. Nd4 { [%clk 0:08:27] } 18... Nxd4 { [%clk 0:03:12] } 19. Bxd4 { [%clk 0:08:17] } 19... Rg6 { [%clk 0:03:09] } 20. g4 { [%clk 0:07:27] } 20... c6 { [%clk 0:02:23] } 21. Bc4 { [%clk 0:07:06] } 21... Ke7 { [%clk 0:02:12] } 22. Rae1+ { [%clk 0:07:01] } 22... Kf8 { [%clk 0:02:06] } 23. Be5 { [%clk 0:06:28] } 23... Bxg4 { [%clk 0:01:58] } 24. Bxd6+ { [%clk 0:06:19] } 24... Rxd6 { [%clk 0:01:47] } 25. hxg4 { [%clk 0:06:13] } 25... Rg6 { [%clk 0:01:31] } 26. f3 { [%clk 0:06:06] } 26... f5 { [%clk 0:01:29] } 27. Bd3 { [%clk 0:05:53] } 27... Rg5 { [%clk 0:01:17] } 28. Bxf5 { [%clk 0:05:51] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "poqW35pz",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681259871751,
+  "lastMoveAt": 1681260174707,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "ooooomanona",
+        "id": "ooooomanona"
+      },
+      "rating": 1572,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1584,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 d5 exd5 Nf6 Nc3 Nxd5 Nxd5 Qxd5 d4 Nc6 Nf3 Bg4 Be2 Bxf3 Bxf3 Qxd4 Qxd4 Nxd4 Bxb7 Rb8 Be4 e5 O-O Bc5 Be3 Rxb2 Rab1 Rxb1 Rxb1 O-O Bxd4 Bxd4 Rd1 f5 Bd5+ Kh8 Rd3 Rb8 Rb3 Rd8 Kf1 Rxd5 Rb8+ Rd8 Rxd8#",
+  "clocks": [
+    60003,
+    60003,
+    59851,
+    59899,
+    59851,
+    59739,
+    59787,
+    59739,
+    59715,
+    59091,
+    59115,
+    58131,
+    58987,
+    56459,
+    58595,
+    56267,
+    58387,
+    56051,
+    58195,
+    54907,
+    57563,
+    54355,
+    56811,
+    52891,
+    56467,
+    50971,
+    55763,
+    49067,
+    55539,
+    48883,
+    54251,
+    48419,
+    52891,
+    46411,
+    52523,
+    45907,
+    51699,
+    44291,
+    51115,
+    43379,
+    50899,
+    43115,
+    50211,
+    42147,
+    50033
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/poqW35pz\"]\n[Date \"2023.04.12\"]\n[White \"ooooomanona\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"00:37:51\"]\n[WhiteElo \"1572\"]\n[BlackElo \"1584\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:59] } 3... Nxd5 { [%clk 0:09:57] } 4. Nxd5 { [%clk 0:09:58] } 4... Qxd5 { [%clk 0:09:57] } 5. d4 { [%clk 0:09:57] } 5... Nc6 { [%clk 0:09:51] } 6. Nf3 { [%clk 0:09:51] } 6... Bg4 { [%clk 0:09:41] } 7. Be2 { [%clk 0:09:50] } 7... Bxf3 { [%clk 0:09:25] } 8. Bxf3 { [%clk 0:09:46] } 8... Qxd4 { [%clk 0:09:23] } 9. Qxd4 { [%clk 0:09:44] } 9... Nxd4 { [%clk 0:09:21] } 10. Bxb7 { [%clk 0:09:42] } 10... Rb8 { [%clk 0:09:09] } 11. Be4 { [%clk 0:09:36] } 11... e5 { [%clk 0:09:04] } 12. O-O { [%clk 0:09:28] } 12... Bc5 { [%clk 0:08:49] } 13. Be3 { [%clk 0:09:25] } 13... Rxb2 { [%clk 0:08:30] } 14. Rab1 { [%clk 0:09:18] } 14... Rxb1 { [%clk 0:08:11] } 15. Rxb1 { [%clk 0:09:15] } 15... O-O { [%clk 0:08:09] } 16. Bxd4 { [%clk 0:09:03] } 16... Bxd4 { [%clk 0:08:04] } 17. Rd1 { [%clk 0:08:49] } 17... f5 { [%clk 0:07:44] } 18. Bd5+ { [%clk 0:08:45] } 18... Kh8 { [%clk 0:07:39] } 19. Rd3 { [%clk 0:08:37] } 19... Rb8 { [%clk 0:07:23] } 20. Rb3 { [%clk 0:08:31] } 20... Rd8 { [%clk 0:07:14] } 21. Kf1 { [%clk 0:08:29] } 21... Rxd5 { [%clk 0:07:11] } 22. Rb8+ { [%clk 0:08:22] } 22... Rd8 { [%clk 0:07:01] } 23. Rxd8# { [%clk 0:08:20] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "j7iCiEJK",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681294223151,
+  "lastMoveAt": 1681294805946,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1578,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "ZethusPlaysChess",
+        "id": "zethusplayschess"
+      },
+      "rating": 1535,
+      "ratingDiff": -21
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Be3 d5 Nxc6 bxc6 Bxc5 d4 Bc4 Be6 Bxe6 fxe6 Bxd4 Nf6 Nc3 O-O O-O Qe7 e5 Nd5 Nxd5 cxd5 Qd3 c5 Bc3 c4 Qd4 Qg5 Rad1 Rf4 Bd2 Rxd4 Bxg5 Rxd1 Rxd1 Rf8 b3 Rf5 f4 h6 g4 Rf8 Bh4 Rxf4 h3 g5 Bg3 Rf3 Kg2 Rc3 Rd2 Rxb3 axb3",
+  "clocks": [
+    60003,
+    60003,
+    59835,
+    59699,
+    59659,
+    59339,
+    59571,
+    59195,
+    59267,
+    58899,
+    57827,
+    57971,
+    57611,
+    57403,
+    56331,
+    56315,
+    55339,
+    56315,
+    55163,
+    55867,
+    53595,
+    55387,
+    52475,
+    53291,
+    49587,
+    52755,
+    48179,
+    52755,
+    45291,
+    52595,
+    42339,
+    52347,
+    41003,
+    50963,
+    38531,
+    50299,
+    36219,
+    48219,
+    36091,
+    48155,
+    36091,
+    48043,
+    34283,
+    47075,
+    32491,
+    46003,
+    30947,
+    44651,
+    28275,
+    44531,
+    27643,
+    42059,
+    27139,
+    40323,
+    27043,
+    39867,
+    24947,
+    39859,
+    24744,
+    39456
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/j7iCiEJK\"]\n[Date \"2023.04.12\"]\n[White \"pnmadelaine\"]\n[Black \"ZethusPlaysChess\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"10:10:23\"]\n[WhiteElo \"1578\"]\n[BlackElo \"1535\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-21\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:57] } 3. d4 { [%clk 0:09:57] } 3... exd4 { [%clk 0:09:53] } 4. Nxd4 { [%clk 0:09:56] } 4... Bc5 { [%clk 0:09:52] } 5. Be3 { [%clk 0:09:53] } 5... d5 { [%clk 0:09:49] } 6. Nxc6 { [%clk 0:09:38] } 6... bxc6 { [%clk 0:09:40] } 7. Bxc5 { [%clk 0:09:36] } 7... d4 { [%clk 0:09:34] } 8. Bc4 { [%clk 0:09:23] } 8... Be6 { [%clk 0:09:23] } 9. Bxe6 { [%clk 0:09:13] } 9... fxe6 { [%clk 0:09:23] } 10. Bxd4 { [%clk 0:09:12] } 10... Nf6 { [%clk 0:09:19] } 11. Nc3 { [%clk 0:08:56] } 11... O-O { [%clk 0:09:14] } 12. O-O { [%clk 0:08:45] } 12... Qe7 { [%clk 0:08:53] } 13. e5 { [%clk 0:08:16] } 13... Nd5 { [%clk 0:08:48] } 14. Nxd5 { [%clk 0:08:02] } 14... cxd5 { [%clk 0:08:48] } 15. Qd3 { [%clk 0:07:33] } 15... c5 { [%clk 0:08:46] } 16. Bc3 { [%clk 0:07:03] } 16... c4 { [%clk 0:08:43] } 17. Qd4 { [%clk 0:06:50] } 17... Qg5 { [%clk 0:08:30] } 18. Rad1 { [%clk 0:06:25] } 18... Rf4 { [%clk 0:08:23] } 19. Bd2 { [%clk 0:06:02] } 19... Rxd4 { [%clk 0:08:02] } 20. Bxg5 { [%clk 0:06:01] } 20... Rxd1 { [%clk 0:08:02] } 21. Rxd1 { [%clk 0:06:01] } 21... Rf8 { [%clk 0:08:00] } 22. b3 { [%clk 0:05:43] } 22... Rf5 { [%clk 0:07:51] } 23. f4 { [%clk 0:05:25] } 23... h6 { [%clk 0:07:40] } 24. g4 { [%clk 0:05:09] } 24... Rf8 { [%clk 0:07:27] } 25. Bh4 { [%clk 0:04:43] } 25... Rxf4 { [%clk 0:07:25] } 26. h3 { [%clk 0:04:36] } 26... g5 { [%clk 0:07:01] } 27. Bg3 { [%clk 0:04:31] } 27... Rf3 { [%clk 0:06:43] } 28. Kg2 { [%clk 0:04:30] } 28... Rc3 { [%clk 0:06:39] } 29. Rd2 { [%clk 0:04:09] } 29... Rxb3 { [%clk 0:06:39] } 30. axb3 { [%clk 0:04:07] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "SAibR2Ba",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681305015098,
+  "lastMoveAt": 1681305269749,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1583,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "bahmanfaz",
+        "id": "bahmanfaz"
+      },
+      "rating": 1566,
+      "ratingDiff": -7
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 d6 d4 Nc6 dxe5 dxe5 Qxd8+ Nxd8 Nxe5 Bd6 Nf3 Nf6 e5 Bb4+ c3 Bxc3+ Nxc3 Nh5 Bc4 Be6 Bxe6 Nxe6 O-O O-O-O Bg5 Nxg5 Nxg5 f6 Nf7 fxe5 Nxh8 Rxh8 Rfe1 Rd8",
+  "clocks": [
+    60003,
+    60003,
+    59891,
+    59827,
+    59707,
+    59075,
+    58963,
+    58563,
+    58747,
+    58451,
+    58635,
+    58051,
+    57307,
+    57315,
+    56843,
+    54483,
+    55931,
+    53051,
+    55675,
+    52467,
+    53595,
+    51987,
+    52723,
+    51787,
+    51915,
+    51699,
+    49771,
+    49835,
+    49771,
+    49307,
+    48467,
+    48955,
+    48211,
+    48851,
+    47579,
+    48662,
+    47295
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/SAibR2Ba\"]\n[Date \"2023.04.12\"]\n[White \"pnmadelaine\"]\n[Black \"bahmanfaz\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"13:10:15\"]\n[WhiteElo \"1583\"]\n[BlackElo \"1566\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C41\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... d6 { [%clk 0:09:58] } 3. d4 { [%clk 0:09:57] } 3... Nc6 { [%clk 0:09:51] } 4. dxe5 { [%clk 0:09:50] } 4... dxe5 { [%clk 0:09:46] } 5. Qxd8+ { [%clk 0:09:47] } 5... Nxd8 { [%clk 0:09:45] } 6. Nxe5 { [%clk 0:09:46] } 6... Bd6 { [%clk 0:09:41] } 7. Nf3 { [%clk 0:09:33] } 7... Nf6 { [%clk 0:09:33] } 8. e5 { [%clk 0:09:28] } 8... Bb4+ { [%clk 0:09:05] } 9. c3 { [%clk 0:09:19] } 9... Bxc3+ { [%clk 0:08:51] } 10. Nxc3 { [%clk 0:09:17] } 10... Nh5 { [%clk 0:08:45] } 11. Bc4 { [%clk 0:08:56] } 11... Be6 { [%clk 0:08:40] } 12. Bxe6 { [%clk 0:08:47] } 12... Nxe6 { [%clk 0:08:38] } 13. O-O { [%clk 0:08:39] } 13... O-O-O { [%clk 0:08:37] } 14. Bg5 { [%clk 0:08:18] } 14... Nxg5 { [%clk 0:08:18] } 15. Nxg5 { [%clk 0:08:18] } 15... f6 { [%clk 0:08:13] } 16. Nf7 { [%clk 0:08:05] } 16... fxe5 { [%clk 0:08:10] } 17. Nxh8 { [%clk 0:08:02] } 17... Rxh8 { [%clk 0:08:09] } 18. Rfe1 { [%clk 0:07:56] } 18... Rd8 { [%clk 0:08:07] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "r5F0yzqT",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681306235837,
+  "lastMoveAt": 1681306562454,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "antiarcon123",
+        "id": "antiarcon123"
+      },
+      "rating": 1668,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1589,
+      "ratingDiff": -5
+    }
+  },
+  "winner": "white",
+  "moves": "d3 d5 a3 e5 b4 Nf6 h3 Be7 g3 O-O h4 Nc6 Bh3 Bxh3 Nxh3 a5 b5 Na7 a4 Re8 Na3 Bb4+ Bd2 Bc5 c3 e4 d4 Bb6 e3 c6 Rb1 c5 Nf4 cxd4 cxd4 Rc8 Qb3",
+  "clocks": [
+    60003,
+    60003,
+    59731,
+    59787,
+    59595,
+    58507,
+    59499,
+    55851,
+    59251,
+    55371,
+    59155,
+    53779,
+    58979,
+    51499,
+    58803,
+    49691,
+    58619,
+    48475,
+    58107,
+    45811,
+    57971,
+    43795,
+    57851,
+    39731,
+    57459,
+    37411,
+    57299,
+    36771,
+    57171,
+    36259,
+    56867,
+    33707,
+    56531,
+    33251,
+    56435,
+    32523,
+    55963,
+    23290
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/r5F0yzqT\"]\n[Date \"2023.04.12\"]\n[White \"antiarcon123\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"13:30:35\"]\n[WhiteElo \"1668\"]\n[BlackElo \"1589\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-5\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"A00\"]\n[Termination \"Normal\"]\n\n1. d3 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. a3 { [%clk 0:09:57] } 2... e5 { [%clk 0:09:58] } 3. b4 { [%clk 0:09:56] } 3... Nf6 { [%clk 0:09:45] } 4. h3 { [%clk 0:09:55] } 4... Be7 { [%clk 0:09:19] } 5. g3 { [%clk 0:09:53] } 5... O-O { [%clk 0:09:14] } 6. h4 { [%clk 0:09:52] } 6... Nc6 { [%clk 0:08:58] } 7. Bh3 { [%clk 0:09:50] } 7... Bxh3 { [%clk 0:08:35] } 8. Nxh3 { [%clk 0:09:48] } 8... a5 { [%clk 0:08:17] } 9. b5 { [%clk 0:09:46] } 9... Na7 { [%clk 0:08:05] } 10. a4 { [%clk 0:09:41] } 10... Re8 { [%clk 0:07:38] } 11. Na3 { [%clk 0:09:40] } 11... Bb4+ { [%clk 0:07:18] } 12. Bd2 { [%clk 0:09:39] } 12... Bc5 { [%clk 0:06:37] } 13. c3 { [%clk 0:09:35] } 13... e4 { [%clk 0:06:14] } 14. d4 { [%clk 0:09:33] } 14... Bb6 { [%clk 0:06:08] } 15. e3 { [%clk 0:09:32] } 15... c6 { [%clk 0:06:03] } 16. Rb1 { [%clk 0:09:29] } 16... c5 { [%clk 0:05:37] } 17. Nf4 { [%clk 0:09:25] } 17... cxd4 { [%clk 0:05:33] } 18. cxd4 { [%clk 0:09:24] } 18... Rc8 { [%clk 0:05:25] } 19. Qb3 { [%clk 0:09:20] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "89axs7Ai",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681307751502,
+  "lastMoveAt": 1681308258066,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "GreenUnicorn",
+        "id": "greenunicorn"
+      },
+      "rating": 1573,
+      "ratingDiff": 6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1584,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 d5 exd5 Nf6 Nc3 Nxd5 Nxd5 Qxd5 d4 Nc6 Nf3 Bg4 c3 O-O-O Be2 e6 O-O Be7 Be3 h5 Qa4 Kb8 c4 Qe4 h3 Bf5 b4 Bxb4 Rab1 Qxb1 Rxb1 Bxb1 Ne5 Nxd4 Kh2 Nxe2 Qxa7+ Kc8 Qa8#",
+  "clocks": [
+    60003,
+    60003,
+    59699,
+    59891,
+    58819,
+    59747,
+    58627,
+    59747,
+    58435,
+    59347,
+    57979,
+    58851,
+    56819,
+    57963,
+    56243,
+    54899,
+    55939,
+    51259,
+    55667,
+    48339,
+    54563,
+    44979,
+    54147,
+    42843,
+    51099,
+    40715,
+    48139,
+    38227,
+    46195,
+    37043,
+    45867,
+    37043,
+    41763,
+    33851,
+    40315,
+    32419,
+    39883,
+    30500,
+    39696
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/89axs7Ai\"]\n[Date \"2023.04.12\"]\n[White \"GreenUnicorn\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"13:55:51\"]\n[WhiteElo \"1573\"]\n[BlackElo \"1584\"]\n[WhiteRatingDiff \"+6\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:57] } 2... Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:48] } 3... Nxd5 { [%clk 0:09:57] } 4. Nxd5 { [%clk 0:09:46] } 4... Qxd5 { [%clk 0:09:57] } 5. d4 { [%clk 0:09:44] } 5... Nc6 { [%clk 0:09:53] } 6. Nf3 { [%clk 0:09:40] } 6... Bg4 { [%clk 0:09:49] } 7. c3 { [%clk 0:09:28] } 7... O-O-O { [%clk 0:09:40] } 8. Be2 { [%clk 0:09:22] } 8... e6 { [%clk 0:09:09] } 9. O-O { [%clk 0:09:19] } 9... Be7 { [%clk 0:08:33] } 10. Be3 { [%clk 0:09:17] } 10... h5 { [%clk 0:08:03] } 11. Qa4 { [%clk 0:09:06] } 11... Kb8 { [%clk 0:07:30] } 12. c4 { [%clk 0:09:01] } 12... Qe4 { [%clk 0:07:08] } 13. h3 { [%clk 0:08:31] } 13... Bf5 { [%clk 0:06:47] } 14. b4 { [%clk 0:08:01] } 14... Bxb4 { [%clk 0:06:22] } 15. Rab1 { [%clk 0:07:42] } 15... Qxb1 { [%clk 0:06:10] } 16. Rxb1 { [%clk 0:07:39] } 16... Bxb1 { [%clk 0:06:10] } 17. Ne5 { [%clk 0:06:58] } 17... Nxd4 { [%clk 0:05:39] } 18. Kh2 { [%clk 0:06:43] } 18... Nxe2 { [%clk 0:05:24] } 19. Qxa7+ { [%clk 0:06:39] } 19... Kc8 { [%clk 0:05:05] } 20. Qa8# { [%clk 0:06:37] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "SiXjq5R8",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681313357639,
+  "lastMoveAt": 1681314199253,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1578,
+      "ratingDiff": 7
+    },
+    "black": {
+      "user": {
+        "name": "Saidonaire",
+        "id": "saidonaire"
+      },
+      "rating": 1599,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 a6 Nc3 Nf6 Bc4 e6 O-O Be7 Re1 O-O Bf4 Nbd7 e5 dxe5 Bxe5 Nxe5 Rxe5 b5 Bb3 Bb7 a3 Nd7 Re3 Nc5 Ba2 Bf6 Nf3 Qxd1+ Rxd1 Bxc3 Rxc3 Ne4 Rcd3 Nf6 h3 Bd5 Bxd5 Nxd5 c3 Nf4 Rd7 Nd5 Ne5 Rad8 Ra7 f6 Nc6 Rb8 Nxb8 Rxb8 Rxa6 Nf4 Rd7 e5 Raa7 Nh5 g4 Nf4 Rxg7+ Kf8 Rxh7 Ke8 Rh8#",
+  "clocks": [
+    60003,
+    60003,
+    59603,
+    59715,
+    59387,
+    59307,
+    59243,
+    59091,
+    58123,
+    58731,
+    57347,
+    58467,
+    56123,
+    57931,
+    54499,
+    57523,
+    52195,
+    56835,
+    50491,
+    55027,
+    50491,
+    53187,
+    50491,
+    52667,
+    49227,
+    50267,
+    46579,
+    48915,
+    43051,
+    45115,
+    41563,
+    44515,
+    39331,
+    43875,
+    39195,
+    40411,
+    38923,
+    38811,
+    38235,
+    38123,
+    36835,
+    35331,
+    35411,
+    35131,
+    31923,
+    34419,
+    31427,
+    31723,
+    26259,
+    28571,
+    24363,
+    27675,
+    22819,
+    23491,
+    22403,
+    23171,
+    21907,
+    22411,
+    20563,
+    22123,
+    20163,
+    21619,
+    18899,
+    20587,
+    18531,
+    20075,
+    18139,
+    19871,
+    17977
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/SiXjq5R8\"]\n[Date \"2023.04.12\"]\n[White \"pnmadelaine\"]\n[Black \"Saidonaire\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"15:29:17\"]\n[WhiteElo \"1578\"]\n[BlackElo \"1599\"]\n[WhiteRatingDiff \"+7\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B90\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:56] } 2... d6 { [%clk 0:09:57] } 3. d4 { [%clk 0:09:54] } 3... cxd4 { [%clk 0:09:53] } 4. Nxd4 { [%clk 0:09:52] } 4... a6 { [%clk 0:09:51] } 5. Nc3 { [%clk 0:09:41] } 5... Nf6 { [%clk 0:09:47] } 6. Bc4 { [%clk 0:09:33] } 6... e6 { [%clk 0:09:45] } 7. O-O { [%clk 0:09:21] } 7... Be7 { [%clk 0:09:39] } 8. Re1 { [%clk 0:09:05] } 8... O-O { [%clk 0:09:35] } 9. Bf4 { [%clk 0:08:42] } 9... Nbd7 { [%clk 0:09:28] } 10. e5 { [%clk 0:08:25] } 10... dxe5 { [%clk 0:09:10] } 11. Bxe5 { [%clk 0:08:25] } 11... Nxe5 { [%clk 0:08:52] } 12. Rxe5 { [%clk 0:08:25] } 12... b5 { [%clk 0:08:47] } 13. Bb3 { [%clk 0:08:12] } 13... Bb7 { [%clk 0:08:23] } 14. a3 { [%clk 0:07:46] } 14... Nd7 { [%clk 0:08:09] } 15. Re3 { [%clk 0:07:11] } 15... Nc5 { [%clk 0:07:31] } 16. Ba2 { [%clk 0:06:56] } 16... Bf6 { [%clk 0:07:25] } 17. Nf3 { [%clk 0:06:33] } 17... Qxd1+ { [%clk 0:07:19] } 18. Rxd1 { [%clk 0:06:32] } 18... Bxc3 { [%clk 0:06:44] } 19. Rxc3 { [%clk 0:06:29] } 19... Ne4 { [%clk 0:06:28] } 20. Rcd3 { [%clk 0:06:22] } 20... Nf6 { [%clk 0:06:21] } 21. h3 { [%clk 0:06:08] } 21... Bd5 { [%clk 0:05:53] } 22. Bxd5 { [%clk 0:05:54] } 22... Nxd5 { [%clk 0:05:51] } 23. c3 { [%clk 0:05:19] } 23... Nf4 { [%clk 0:05:44] } 24. Rd7 { [%clk 0:05:14] } 24... Nd5 { [%clk 0:05:17] } 25. Ne5 { [%clk 0:04:23] } 25... Rad8 { [%clk 0:04:46] } 26. Ra7 { [%clk 0:04:04] } 26... f6 { [%clk 0:04:37] } 27. Nc6 { [%clk 0:03:48] } 27... Rb8 { [%clk 0:03:55] } 28. Nxb8 { [%clk 0:03:44] } 28... Rxb8 { [%clk 0:03:52] } 29. Rxa6 { [%clk 0:03:39] } 29... Nf4 { [%clk 0:03:44] } 30. Rd7 { [%clk 0:03:26] } 30... e5 { [%clk 0:03:41] } 31. Raa7 { [%clk 0:03:22] } 31... Nh5 { [%clk 0:03:36] } 32. g4 { [%clk 0:03:09] } 32... Nf4 { [%clk 0:03:26] } 33. Rxg7+ { [%clk 0:03:05] } 33... Kf8 { [%clk 0:03:21] } 34. Rxh7 { [%clk 0:03:01] } 34... Ke8 { [%clk 0:03:19] } 35. Rh8# { [%clk 0:03:00] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "c8nmuNxI",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681314325055,
+  "lastMoveAt": 1681314338251,
+  "status": "draw",
+  "players": {
+    "white": {
+      "user": {
+        "name": "ManojKkManoj",
+        "id": "manojkkmanoj"
+      },
+      "rating": 1649,
+      "ratingDiff": -3
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1585,
+      "ratingDiff": 1
+    }
+  },
+  "moves": "c4 e5 Nc3 Nf6",
+  "clocks": [
+    60003,
+    60003,
+    59731,
+    59522,
+    58828
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/c8nmuNxI\"]\n[Date \"2023.04.12\"]\n[White \"ManojKkManoj\"]\n[Black \"pnmadelaine\"]\n[Result \"1/2-1/2\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"15:45:25\"]\n[WhiteElo \"1649\"]\n[BlackElo \"1585\"]\n[WhiteRatingDiff \"-3\"]\n[BlackRatingDiff \"+1\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"A22\"]\n[Termination \"Normal\"]\n\n1. c4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nc3 { [%clk 0:09:57] } 2... Nf6 { [%clk 0:09:55] } 1/2-1/2\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "m38UnaJP",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681314505647,
+  "lastMoveAt": 1681315606405,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1586,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "rikycat72",
+        "id": "rikycat72"
+      },
+      "rating": 1608,
+      "ratingDiff": -24
+    }
+  },
+  "winner": "white",
+  "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 Bc4 Bg7 Nb3 e6 O-O Nge7 Nc3 O-O Bg5 Qc7 Nb5 Qb6 Nd6 Be5 Nxc8 Raxc8 c3 Qc7 g3 Kg7 Qd2 Kg8 f4 Bg7 e5 f6 exf6 Bxf6 Bh6 Bg7 Bxg7 Kxg7 Rae1 Nf5 Nc5 Qb6 Qxd7+ Kh6 b4 e5 g4 exf4 gxf5 Rcd8 Qe6 Rxf5 Rf3 Rg5+ Kh1 Qc7 Qf6 Ne5 Rh3+ Rh5 Rxh5+ Kxh5 Be2+ f3 Bxf3+ Nxf3 Qxf3+ Kh6 Ne6 Qd7 Qh3#",
+  "clocks": [
+    60003,
+    60003,
+    59835,
+    59811,
+    59747,
+    59651,
+    59659,
+    59323,
+    59147,
+    59027,
+    54091,
+    58307,
+    53219,
+    58131,
+    52659,
+    57451,
+    51691,
+    56827,
+    50307,
+    54579,
+    46667,
+    51379,
+    45163,
+    50931,
+    40275,
+    49923,
+    38563,
+    49731,
+    37323,
+    48755,
+    35707,
+    48603,
+    33443,
+    47187,
+    31755,
+    46851,
+    31099,
+    46187,
+    30027,
+    46187,
+    28563,
+    44507,
+    27787,
+    42771,
+    26819,
+    40179,
+    23867,
+    33291,
+    18851,
+    28595,
+    16147,
+    26291,
+    14651,
+    25011,
+    11019,
+    23611,
+    8795,
+    18931,
+    6859,
+    15699,
+    5603,
+    14619,
+    5203,
+    14419,
+    4659,
+    13107,
+    4147,
+    12955,
+    4147,
+    12563,
+    3635,
+    8382,
+    3275
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/m38UnaJP\"]\n[Date \"2023.04.12\"]\n[White \"pnmadelaine\"]\n[Black \"rikycat72\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"15:48:25\"]\n[WhiteElo \"1586\"]\n[BlackElo \"1608\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-24\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B32\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:58] } 3. d4 { [%clk 0:09:57] } 3... cxd4 { [%clk 0:09:57] } 4. Nxd4 { [%clk 0:09:57] } 4... g6 { [%clk 0:09:53] } 5. Bc4 { [%clk 0:09:51] } 5... Bg7 { [%clk 0:09:50] } 6. Nb3 { [%clk 0:09:01] } 6... e6 { [%clk 0:09:43] } 7. O-O { [%clk 0:08:52] } 7... Nge7 { [%clk 0:09:41] } 8. Nc3 { [%clk 0:08:47] } 8... O-O { [%clk 0:09:35] } 9. Bg5 { [%clk 0:08:37] } 9... Qc7 { [%clk 0:09:28] } 10. Nb5 { [%clk 0:08:23] } 10... Qb6 { [%clk 0:09:06] } 11. Nd6 { [%clk 0:07:47] } 11... Be5 { [%clk 0:08:34] } 12. Nxc8 { [%clk 0:07:32] } 12... Raxc8 { [%clk 0:08:29] } 13. c3 { [%clk 0:06:43] } 13... Qc7 { [%clk 0:08:19] } 14. g3 { [%clk 0:06:26] } 14... Kg7 { [%clk 0:08:17] } 15. Qd2 { [%clk 0:06:13] } 15... Kg8 { [%clk 0:08:08] } 16. f4 { [%clk 0:05:57] } 16... Bg7 { [%clk 0:08:06] } 17. e5 { [%clk 0:05:34] } 17... f6 { [%clk 0:07:52] } 18. exf6 { [%clk 0:05:18] } 18... Bxf6 { [%clk 0:07:49] } 19. Bh6 { [%clk 0:05:11] } 19... Bg7 { [%clk 0:07:42] } 20. Bxg7 { [%clk 0:05:00] } 20... Kxg7 { [%clk 0:07:42] } 21. Rae1 { [%clk 0:04:46] } 21... Nf5 { [%clk 0:07:25] } 22. Nc5 { [%clk 0:04:38] } 22... Qb6 { [%clk 0:07:08] } 23. Qxd7+ { [%clk 0:04:28] } 23... Kh6 { [%clk 0:06:42] } 24. b4 { [%clk 0:03:59] } 24... e5 { [%clk 0:05:33] } 25. g4 { [%clk 0:03:09] } 25... exf4 { [%clk 0:04:46] } 26. gxf5 { [%clk 0:02:41] } 26... Rcd8 { [%clk 0:04:23] } 27. Qe6 { [%clk 0:02:27] } 27... Rxf5 { [%clk 0:04:10] } 28. Rf3 { [%clk 0:01:50] } 28... Rg5+ { [%clk 0:03:56] } 29. Kh1 { [%clk 0:01:28] } 29... Qc7 { [%clk 0:03:09] } 30. Qf6 { [%clk 0:01:09] } 30... Ne5 { [%clk 0:02:37] } 31. Rh3+ { [%clk 0:00:56] } 31... Rh5 { [%clk 0:02:26] } 32. Rxh5+ { [%clk 0:00:52] } 32... Kxh5 { [%clk 0:02:24] } 33. Be2+ { [%clk 0:00:47] } 33... f3 { [%clk 0:02:11] } 34. Bxf3+ { [%clk 0:00:41] } 34... Nxf3 { [%clk 0:02:10] } 35. Qxf3+ { [%clk 0:00:41] } 35... Kh6 { [%clk 0:02:06] } 36. Ne6 { [%clk 0:00:36] } 36... Qd7 { [%clk 0:01:24] } 37. Qh3# { [%clk 0:00:33] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "rnKZdwEu",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681315797077,
+  "lastMoveAt": 1681316379540,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1591,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "XasanoVv",
+        "id": "xasanovv"
+      },
+      "rating": 1539,
+      "ratingDiff": 7
+    }
+  },
+  "winner": "black",
+  "moves": "e4 e5 Nf3 Nf6 Nc3 d6 d4 Nc6 dxe5 Nxe5 Nxe5 dxe5 Qxd8+ Kxd8 Bg5 Be7 O-O-O+ Bd7 Nd5 Nxd5 Rxd5 Bxg5+ Kb1 Bf6 Bc4 c6 Rdd1 Kc7 Bxf7 Rad8 h4 Bg4 Rde1 Rd7 Bb3 Rhd8 f3 Bh5 g4 Bg6 h5 Bxh5 gxh5 Bh4 Ref1 Bf2 a3 Be3 h6 g6 c3 Bf4 Rhg1 Bxh6 Rg2 Bf4",
+  "clocks": [
+    60003,
+    60003,
+    59907,
+    59875,
+    59667,
+    59707,
+    59483,
+    58011,
+    59363,
+    57083,
+    59051,
+    57035,
+    59019,
+    57003,
+    58059,
+    56275,
+    56947,
+    55971,
+    55163,
+    55379,
+    53539,
+    55131,
+    53387,
+    53739,
+    52659,
+    53083,
+    51451,
+    52755,
+    51235,
+    51995,
+    49219,
+    51691,
+    47635,
+    50195,
+    46675,
+    49395,
+    46443,
+    48155,
+    46331,
+    46595,
+    45659,
+    46435,
+    45155,
+    44875,
+    43347,
+    43307,
+    41019,
+    42299,
+    39907,
+    39539,
+    37547,
+    36443,
+    30787,
+    35771,
+    30051,
+    33734,
+    27450
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/rnKZdwEu\"]\n[Date \"2023.04.12\"]\n[White \"pnmadelaine\"]\n[Black \"XasanoVv\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"16:09:57\"]\n[WhiteElo \"1591\"]\n[BlackElo \"1539\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C42\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:57] } 3... d6 { [%clk 0:09:57] } 4. d4 { [%clk 0:09:55] } 4... Nc6 { [%clk 0:09:40] } 5. dxe5 { [%clk 0:09:54] } 5... Nxe5 { [%clk 0:09:31] } 6. Nxe5 { [%clk 0:09:51] } 6... dxe5 { [%clk 0:09:30] } 7. Qxd8+ { [%clk 0:09:50] } 7... Kxd8 { [%clk 0:09:30] } 8. Bg5 { [%clk 0:09:41] } 8... Be7 { [%clk 0:09:23] } 9. O-O-O+ { [%clk 0:09:29] } 9... Bd7 { [%clk 0:09:20] } 10. Nd5 { [%clk 0:09:12] } 10... Nxd5 { [%clk 0:09:14] } 11. Rxd5 { [%clk 0:08:55] } 11... Bxg5+ { [%clk 0:09:11] } 12. Kb1 { [%clk 0:08:54] } 12... Bf6 { [%clk 0:08:57] } 13. Bc4 { [%clk 0:08:47] } 13... c6 { [%clk 0:08:51] } 14. Rdd1 { [%clk 0:08:35] } 14... Kc7 { [%clk 0:08:48] } 15. Bxf7 { [%clk 0:08:32] } 15... Rad8 { [%clk 0:08:40] } 16. h4 { [%clk 0:08:12] } 16... Bg4 { [%clk 0:08:37] } 17. Rde1 { [%clk 0:07:56] } 17... Rd7 { [%clk 0:08:22] } 18. Bb3 { [%clk 0:07:47] } 18... Rhd8 { [%clk 0:08:14] } 19. f3 { [%clk 0:07:44] } 19... Bh5 { [%clk 0:08:02] } 20. g4 { [%clk 0:07:43] } 20... Bg6 { [%clk 0:07:46] } 21. h5 { [%clk 0:07:37] } 21... Bxh5 { [%clk 0:07:44] } 22. gxh5 { [%clk 0:07:32] } 22... Bh4 { [%clk 0:07:29] } 23. Ref1 { [%clk 0:07:13] } 23... Bf2 { [%clk 0:07:13] } 24. a3 { [%clk 0:06:50] } 24... Be3 { [%clk 0:07:03] } 25. h6 { [%clk 0:06:39] } 25... g6 { [%clk 0:06:35] } 26. c3 { [%clk 0:06:15] } 26... Bf4 { [%clk 0:06:04] } 27. Rhg1 { [%clk 0:05:08] } 27... Bxh6 { [%clk 0:05:58] } 28. Rg2 { [%clk 0:05:01] } 28... Bf4 { [%clk 0:05:37] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "ynkqzENd",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681317178619,
+  "lastMoveAt": 1681318281231,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "ROBERTBLUESTEIN",
+        "id": "robertbluestein"
+      },
+      "rating": 1634,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1585,
+      "ratingDiff": -5
+    }
+  },
+  "winner": "white",
+  "moves": "e4 d5 e5 c5 f4 Nc6 Nf3 Bg4 Be2 Bxf3 Bxf3 g5 d3 gxf4 Bxf4 Bh6 Qd2 Bxf4 Qxf4 e6 O-O Nge7 Bh5 Kd7 Nc3 Ng6 Qxf7+ Kc8 Qxe6+ Kb8 Bg4 Ncxe5 Bh3 Re8 Qxd5 Qxd5 Nxd5 b6 Nf6 Re7 g3 Kb7 Bg2+ Ka6 Bxa8 Nd7 a3 Nxf6 Rxf6 Re2 b4 Rxc2 Rf7 cxb4 axb4+ Kb5 Rf5+ Rc5 bxc5 bxc5 d4 Kc4 d5 Ne7 d6 Nxf5 d7 Kb3 d8=Q c4 Qb8+ Kc2 Qf4 Nd6 Be4+ Kb2 Rb1+ Ka2 Qxd6 c3 Qa6#",
+  "clocks": [
+    60003,
+    60003,
+    59827,
+    59859,
+    59563,
+    58195,
+    57155,
+    57659,
+    56187,
+    55875,
+    52451,
+    53891,
+    51003,
+    52651,
+    50395,
+    51531,
+    45659,
+    50507,
+    44907,
+    45707,
+    41459,
+    44979,
+    36443,
+    42371,
+    32603,
+    41395,
+    27091,
+    38787,
+    25515,
+    38315,
+    19523,
+    35763,
+    15243,
+    32691,
+    4323,
+    30019,
+    3923,
+    26851,
+    3923,
+    25115,
+    3651,
+    23947,
+    3355,
+    23067,
+    3283,
+    21259,
+    3147,
+    20907,
+    2979,
+    20283,
+    2803,
+    19595,
+    2211,
+    18915,
+    2035,
+    18523,
+    1907,
+    17971,
+    1555,
+    17755,
+    1435,
+    16811,
+    1355,
+    16339,
+    1355,
+    16211,
+    1299,
+    15323,
+    1099,
+    15179,
+    952,
+    15003,
+    735,
+    14419,
+    697,
+    14139,
+    515,
+    13747,
+    439,
+    12677,
+    426
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/ynkqzENd\"]\n[Date \"2023.04.12\"]\n[White \"ROBERTBLUESTEIN\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.12\"]\n[UTCTime \"16:32:58\"]\n[WhiteElo \"1634\"]\n[BlackElo \"1585\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-5\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. e5 { [%clk 0:09:58] } 2... c5 { [%clk 0:09:59] } 3. f4 { [%clk 0:09:56] } 3... Nc6 { [%clk 0:09:42] } 4. Nf3 { [%clk 0:09:32] } 4... Bg4 { [%clk 0:09:37] } 5. Be2 { [%clk 0:09:22] } 5... Bxf3 { [%clk 0:09:19] } 6. Bxf3 { [%clk 0:08:45] } 6... g5 { [%clk 0:08:59] } 7. d3 { [%clk 0:08:30] } 7... gxf4 { [%clk 0:08:47] } 8. Bxf4 { [%clk 0:08:24] } 8... Bh6 { [%clk 0:08:35] } 9. Qd2 { [%clk 0:07:37] } 9... Bxf4 { [%clk 0:08:25] } 10. Qxf4 { [%clk 0:07:29] } 10... e6 { [%clk 0:07:37] } 11. O-O { [%clk 0:06:55] } 11... Nge7 { [%clk 0:07:30] } 12. Bh5 { [%clk 0:06:04] } 12... Kd7 { [%clk 0:07:04] } 13. Nc3 { [%clk 0:05:26] } 13... Ng6 { [%clk 0:06:54] } 14. Qxf7+ { [%clk 0:04:31] } 14... Kc8 { [%clk 0:06:28] } 15. Qxe6+ { [%clk 0:04:15] } 15... Kb8 { [%clk 0:06:23] } 16. Bg4 { [%clk 0:03:15] } 16... Ncxe5 { [%clk 0:05:58] } 17. Bh3 { [%clk 0:02:32] } 17... Re8 { [%clk 0:05:27] } 18. Qxd5 { [%clk 0:00:43] } 18... Qxd5 { [%clk 0:05:00] } 19. Nxd5 { [%clk 0:00:39] } 19... b6 { [%clk 0:04:29] } 20. Nf6 { [%clk 0:00:39] } 20... Re7 { [%clk 0:04:11] } 21. g3 { [%clk 0:00:37] } 21... Kb7 { [%clk 0:03:59] } 22. Bg2+ { [%clk 0:00:34] } 22... Ka6 { [%clk 0:03:51] } 23. Bxa8 { [%clk 0:00:33] } 23... Nd7 { [%clk 0:03:33] } 24. a3 { [%clk 0:00:31] } 24... Nxf6 { [%clk 0:03:29] } 25. Rxf6 { [%clk 0:00:30] } 25... Re2 { [%clk 0:03:23] } 26. b4 { [%clk 0:00:28] } 26... Rxc2 { [%clk 0:03:16] } 27. Rf7 { [%clk 0:00:22] } 27... cxb4 { [%clk 0:03:09] } 28. axb4+ { [%clk 0:00:20] } 28... Kb5 { [%clk 0:03:05] } 29. Rf5+ { [%clk 0:00:19] } 29... Rc5 { [%clk 0:03:00] } 30. bxc5 { [%clk 0:00:16] } 30... bxc5 { [%clk 0:02:58] } 31. d4 { [%clk 0:00:14] } 31... Kc4 { [%clk 0:02:48] } 32. d5 { [%clk 0:00:14] } 32... Ne7 { [%clk 0:02:43] } 33. d6 { [%clk 0:00:14] } 33... Nxf5 { [%clk 0:02:42] } 34. d7 { [%clk 0:00:13] } 34... Kb3 { [%clk 0:02:33] } 35. d8=Q { [%clk 0:00:11] } 35... c4 { [%clk 0:02:32] } 36. Qb8+ { [%clk 0:00:10] } 36... Kc2 { [%clk 0:02:30] } 37. Qf4 { [%clk 0:00:07] } 37... Nd6 { [%clk 0:02:24] } 38. Be4+ { [%clk 0:00:07] } 38... Kb2 { [%clk 0:02:21] } 39. Rb1+ { [%clk 0:00:05] } 39... Ka2 { [%clk 0:02:17] } 40. Qxd6 { [%clk 0:00:04] } 40... c3 { [%clk 0:02:07] } 41. Qa6# { [%clk 0:00:04] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "vPA4NRhW",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681385917611,
+  "lastMoveAt": 1681386776264,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1580,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "michaelmark",
+        "id": "michaelmark"
+      },
+      "rating": 1542,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 e5 Nf3 Bc5 d4 exd4 Nxd4 Ne7 Be3 d5 Nc3 Be6 Nxe6 fxe6 Bxc5 Nbc6 Bxe7 Qxe7 Be2 O-O-O exd5 exd5 Nxd5 Qe4 c4 Qxg2 Bf3 Qg5 Qb3 Rhe8+ Kf1 Nd4 Ne7+ Rxe7 Bxb7+ Kd7 Qa4+ c6 Rg1 Qh5 Qxa7 Qe2+ Kg2 Ke8 Rae1 Qg4+ Kf1 Rxe1+ Kxe1 Qxg1+ Kd2 Nb5+",
+  "clocks": [
+    60003,
+    60003,
+    59907,
+    59803,
+    59179,
+    59483,
+    58747,
+    58635,
+    57947,
+    57435,
+    56523,
+    56083,
+    55539,
+    55587,
+    55403,
+    52811,
+    52731,
+    52131,
+    51291,
+    51907,
+    49675,
+    50955,
+    49299,
+    49451,
+    41123,
+    48403,
+    39323,
+    46523,
+    29595,
+    45587,
+    28507,
+    44403,
+    22227,
+    43499,
+    22067,
+    42947,
+    20027,
+    39363,
+    16211,
+    36859,
+    14747,
+    36259,
+    14083,
+    31315,
+    10323,
+    29347,
+    9635,
+    28707,
+    8971,
+    28571,
+    8507,
+    27383,
+    6340
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/vPA4NRhW\"]\n[Date \"2023.04.13\"]\n[White \"pnmadelaine\"]\n[Black \"michaelmark\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.13\"]\n[UTCTime \"11:38:37\"]\n[WhiteElo \"1580\"]\n[BlackElo \"1542\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C40\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Bc5 { [%clk 0:09:58] } 3. d4 { [%clk 0:09:52] } 3... exd4 { [%clk 0:09:55] } 4. Nxd4 { [%clk 0:09:47] } 4... Ne7 { [%clk 0:09:46] } 5. Be3 { [%clk 0:09:39] } 5... d5 { [%clk 0:09:34] } 6. Nc3 { [%clk 0:09:25] } 6... Be6 { [%clk 0:09:21] } 7. Nxe6 { [%clk 0:09:15] } 7... fxe6 { [%clk 0:09:16] } 8. Bxc5 { [%clk 0:09:14] } 8... Nbc6 { [%clk 0:08:48] } 9. Bxe7 { [%clk 0:08:47] } 9... Qxe7 { [%clk 0:08:41] } 10. Be2 { [%clk 0:08:33] } 10... O-O-O { [%clk 0:08:39] } 11. exd5 { [%clk 0:08:17] } 11... exd5 { [%clk 0:08:30] } 12. Nxd5 { [%clk 0:08:13] } 12... Qe4 { [%clk 0:08:15] } 13. c4 { [%clk 0:06:51] } 13... Qxg2 { [%clk 0:08:04] } 14. Bf3 { [%clk 0:06:33] } 14... Qg5 { [%clk 0:07:45] } 15. Qb3 { [%clk 0:04:56] } 15... Rhe8+ { [%clk 0:07:36] } 16. Kf1 { [%clk 0:04:45] } 16... Nd4 { [%clk 0:07:24] } 17. Ne7+ { [%clk 0:03:42] } 17... Rxe7 { [%clk 0:07:15] } 18. Bxb7+ { [%clk 0:03:41] } 18... Kd7 { [%clk 0:07:09] } 19. Qa4+ { [%clk 0:03:20] } 19... c6 { [%clk 0:06:34] } 20. Rg1 { [%clk 0:02:42] } 20... Qh5 { [%clk 0:06:09] } 21. Qxa7 { [%clk 0:02:27] } 21... Qe2+ { [%clk 0:06:03] } 22. Kg2 { [%clk 0:02:21] } 22... Ke8 { [%clk 0:05:13] } 23. Rae1 { [%clk 0:01:43] } 23... Qg4+ { [%clk 0:04:53] } 24. Kf1 { [%clk 0:01:36] } 24... Rxe1+ { [%clk 0:04:47] } 25. Kxe1 { [%clk 0:01:30] } 25... Qxg1+ { [%clk 0:04:46] } 26. Kd2 { [%clk 0:01:25] } 26... Nb5+ { [%clk 0:04:34] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "oMXqL4Qq",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681574124048,
+  "lastMoveAt": 1681574682514,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "VladimirUshakov1989",
+        "id": "vladimirushakov1989"
+      },
+      "rating": 1602,
+      "ratingDiff": 33,
+      "provisional": true
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1574,
+      "ratingDiff": -6
+    }
+  },
+  "winner": "white",
+  "moves": "e4 d5 exd5 Nf6 Bb5+ Bd7 Bc4 c6 d6 exd6 Ne2 d5 Bb3 Bd6 d3 O-O Bg5 Re8 Qd2 Bg4 f3 Bh5 Nc3 Bc5 d4 Bd6 O-O-O Nbd7 Kb1 a5 g4 Bg6 h4 h6 Bxh6 gxh6 Qxh6 b5 Ba4 bxa4 Nxa4 Rb8 h5 Bh7 g5 Rxe2 gxf6 Nxf6 Rhg1+ Kh8 Qg7#",
+  "clocks": [
+    60003,
+    60003,
+    59843,
+    59899,
+    58003,
+    58003,
+    57315,
+    57403,
+    56563,
+    56331,
+    55803,
+    55555,
+    55539,
+    53219,
+    54467,
+    52411,
+    54339,
+    50707,
+    53659,
+    45115,
+    52819,
+    44515,
+    52507,
+    40819,
+    50995,
+    39515,
+    50795,
+    37083,
+    50515,
+    34387,
+    50171,
+    33987,
+    49611,
+    33219,
+    48027,
+    32923,
+    47931,
+    31587,
+    46611,
+    30907,
+    46371,
+    28587,
+    45787,
+    27027,
+    45299,
+    24899,
+    44667,
+    24531,
+    43963,
+    23521,
+    43727
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/oMXqL4Qq\"]\n[Date \"2023.04.15\"]\n[White \"VladimirUshakov1989\"]\n[Black \"pnmadelaine\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.15\"]\n[UTCTime \"15:55:24\"]\n[WhiteElo \"1602\"]\n[BlackElo \"1574\"]\n[WhiteRatingDiff \"+33\"]\n[BlackRatingDiff \"-6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:58] } 2... Nf6 { [%clk 0:09:59] } 3. Bb5+ { [%clk 0:09:40] } 3... Bd7 { [%clk 0:09:40] } 4. Bc4 { [%clk 0:09:33] } 4... c6 { [%clk 0:09:34] } 5. d6 { [%clk 0:09:26] } 5... exd6 { [%clk 0:09:23] } 6. Ne2 { [%clk 0:09:18] } 6... d5 { [%clk 0:09:16] } 7. Bb3 { [%clk 0:09:15] } 7... Bd6 { [%clk 0:08:52] } 8. d3 { [%clk 0:09:05] } 8... O-O { [%clk 0:08:44] } 9. Bg5 { [%clk 0:09:03] } 9... Re8 { [%clk 0:08:27] } 10. Qd2 { [%clk 0:08:57] } 10... Bg4 { [%clk 0:07:31] } 11. f3 { [%clk 0:08:48] } 11... Bh5 { [%clk 0:07:25] } 12. Nc3 { [%clk 0:08:45] } 12... Bc5 { [%clk 0:06:48] } 13. d4 { [%clk 0:08:30] } 13... Bd6 { [%clk 0:06:35] } 14. O-O-O { [%clk 0:08:28] } 14... Nbd7 { [%clk 0:06:11] } 15. Kb1 { [%clk 0:08:25] } 15... a5 { [%clk 0:05:44] } 16. g4 { [%clk 0:08:22] } 16... Bg6 { [%clk 0:05:40] } 17. h4 { [%clk 0:08:16] } 17... h6 { [%clk 0:05:32] } 18. Bxh6 { [%clk 0:08:00] } 18... gxh6 { [%clk 0:05:29] } 19. Qxh6 { [%clk 0:07:59] } 19... b5 { [%clk 0:05:16] } 20. Ba4 { [%clk 0:07:46] } 20... bxa4 { [%clk 0:05:09] } 21. Nxa4 { [%clk 0:07:44] } 21... Rb8 { [%clk 0:04:46] } 22. h5 { [%clk 0:07:38] } 22... Bh7 { [%clk 0:04:30] } 23. g5 { [%clk 0:07:33] } 23... Rxe2 { [%clk 0:04:09] } 24. gxf6 { [%clk 0:07:27] } 24... Nxf6 { [%clk 0:04:05] } 25. Rhg1+ { [%clk 0:07:20] } 25... Kh8 { [%clk 0:03:55] } 26. Qg7# { [%clk 0:07:17] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "rpd0YkrM",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681574730353,
+  "lastMoveAt": 1681575058014,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "spike1504",
+        "id": "spike1504"
+      },
+      "rating": 1600,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1568,
+      "ratingDiff": 7
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 exd5 Nf6 d4 Nxd5 c4 Nb6 Nc3 g6 Nf3 Bg7 Be3 O-O Qd2 Bf5 Bh6 Nc6 Bxg7 Kxg7 d5 Nb4 Qd4+ Kg8 Qh4 Nc2+ Kd2 Nxa1 Ng5 h5 Bd3 Bxd3 Kxd3 c6 Rxa1 cxd5 cxd5 Nxd5 Kc2 Nxc3 bxc3 Rc8 Qf4 Qa5 Qf3 Qxg5",
+  "clocks": [
+    60003,
+    60003,
+    59747,
+    59923,
+    59371,
+    59795,
+    58747,
+    59523,
+    58515,
+    59259,
+    58243,
+    58851,
+    57811,
+    57987,
+    57683,
+    56939,
+    57179,
+    55003,
+    56595,
+    54819,
+    56435,
+    53403,
+    55443,
+    52211,
+    54891,
+    51659,
+    54667,
+    50451,
+    54315,
+    48187,
+    53915,
+    46475,
+    53739,
+    43483,
+    52491,
+    43027,
+    52275,
+    42811,
+    51691,
+    42155,
+    51379,
+    40963,
+    51171,
+    38819,
+    49971,
+    38317,
+    49508
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/rpd0YkrM\"]\n[Date \"2023.04.15\"]\n[White \"spike1504\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.15\"]\n[UTCTime \"16:05:30\"]\n[WhiteElo \"1600\"]\n[BlackElo \"1568\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. exd5 { [%clk 0:09:57] } 2... Nf6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:54] } 3... Nxd5 { [%clk 0:09:58] } 4. c4 { [%clk 0:09:47] } 4... Nb6 { [%clk 0:09:55] } 5. Nc3 { [%clk 0:09:45] } 5... g6 { [%clk 0:09:53] } 6. Nf3 { [%clk 0:09:42] } 6... Bg7 { [%clk 0:09:49] } 7. Be3 { [%clk 0:09:38] } 7... O-O { [%clk 0:09:40] } 8. Qd2 { [%clk 0:09:37] } 8... Bf5 { [%clk 0:09:29] } 9. Bh6 { [%clk 0:09:32] } 9... Nc6 { [%clk 0:09:10] } 10. Bxg7 { [%clk 0:09:26] } 10... Kxg7 { [%clk 0:09:08] } 11. d5 { [%clk 0:09:24] } 11... Nb4 { [%clk 0:08:54] } 12. Qd4+ { [%clk 0:09:14] } 12... Kg8 { [%clk 0:08:42] } 13. Qh4 { [%clk 0:09:09] } 13... Nc2+ { [%clk 0:08:37] } 14. Kd2 { [%clk 0:09:07] } 14... Nxa1 { [%clk 0:08:25] } 15. Ng5 { [%clk 0:09:03] } 15... h5 { [%clk 0:08:02] } 16. Bd3 { [%clk 0:08:59] } 16... Bxd3 { [%clk 0:07:45] } 17. Kxd3 { [%clk 0:08:57] } 17... c6 { [%clk 0:07:15] } 18. Rxa1 { [%clk 0:08:45] } 18... cxd5 { [%clk 0:07:10] } 19. cxd5 { [%clk 0:08:43] } 19... Nxd5 { [%clk 0:07:08] } 20. Kc2 { [%clk 0:08:37] } 20... Nxc3 { [%clk 0:07:02] } 21. bxc3 { [%clk 0:08:34] } 21... Rc8 { [%clk 0:06:50] } 22. Qf4 { [%clk 0:08:32] } 22... Qa5 { [%clk 0:06:28] } 23. Qf3 { [%clk 0:08:20] } 23... Qxg5 { [%clk 0:06:23] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "VzMbFfu1",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681575767296,
+  "lastMoveAt": 1681576034896,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1575,
+      "ratingDiff": 7
+    },
+    "black": {
+      "user": {
+        "name": "HipnoLau",
+        "id": "hipnolau"
+      },
+      "rating": 1643,
+      "ratingDiff": -7
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 d6 dxe5 Bg4 exd6 Bxd6 Bb5 Qd7 O-O a6 Ba4 b5 Bb3 Nf6 Nc3 O-O e5 Nxe5 Nxe5 Bxd1 Nxd7 Nxd7 Rxd1 c6 Rxd6 Rac8",
+  "clocks": [
+    60003,
+    60003,
+    59883,
+    59867,
+    59795,
+    58267,
+    59491,
+    57403,
+    57363,
+    56707,
+    54907,
+    55051,
+    53227,
+    54859,
+    51219,
+    54731,
+    51091,
+    53963,
+    49099,
+    53019,
+    47635,
+    52795,
+    46243,
+    51851,
+    45899,
+    51211,
+    45715,
+    50147,
+    44195,
+    49747,
+    43873
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/VzMbFfu1\"]\n[Date \"2023.04.15\"]\n[White \"pnmadelaine\"]\n[Black \"HipnoLau\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.15\"]\n[UTCTime \"16:22:47\"]\n[WhiteElo \"1575\"]\n[BlackElo \"1643\"]\n[WhiteRatingDiff \"+7\"]\n[BlackRatingDiff \"-7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C44\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:58] } 3... d6 { [%clk 0:09:43] } 4. dxe5 { [%clk 0:09:55] } 4... Bg4 { [%clk 0:09:34] } 5. exd6 { [%clk 0:09:34] } 5... Bxd6 { [%clk 0:09:27] } 6. Bb5 { [%clk 0:09:09] } 6... Qd7 { [%clk 0:09:11] } 7. O-O { [%clk 0:08:52] } 7... a6 { [%clk 0:09:09] } 8. Ba4 { [%clk 0:08:32] } 8... b5 { [%clk 0:09:07] } 9. Bb3 { [%clk 0:08:31] } 9... Nf6 { [%clk 0:09:00] } 10. Nc3 { [%clk 0:08:11] } 10... O-O { [%clk 0:08:50] } 11. e5 { [%clk 0:07:56] } 11... Nxe5 { [%clk 0:08:48] } 12. Nxe5 { [%clk 0:07:42] } 12... Bxd1 { [%clk 0:08:39] } 13. Nxd7 { [%clk 0:07:39] } 13... Nxd7 { [%clk 0:08:32] } 14. Rxd1 { [%clk 0:07:37] } 14... c6 { [%clk 0:08:21] } 15. Rxd6 { [%clk 0:07:22] } 15... Rac8 { [%clk 0:08:17] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "kHbOePod",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681576090080,
+  "lastMoveAt": 1681576717504,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "Gondim",
+        "id": "gondim"
+      },
+      "rating": 1584,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1582,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 e5 c5 d4 cxd4 Qxd4 Nc6 Qf4 e6 Bb5 Bd7 Qg5 Qxg5 Bxg5 Nxe5 Bxd7+ Kxd7 f4 Ng6 h4 h6 f5 hxg5 fxg6 fxg6 Nf3 Rc8 Nxg5 Rxc2 Nf7 Rc1+ Kd2 Rxh1 Nxh8 Rxh4 Nxg6 Rh2 Nxf8+ Ke7 Ng6+ Kf6 Nf4 g5 Nd3 Rxg2+ Kc3 Rg1 a4 g4 Kc2 g3 Ra3 g2 Nd2 Rh1 Nf3 g1=Q Nxg1 Rxg1 Nc5 Rg7 Nxb7 Rxb7 Rf3+ Ke7 Rh3 Nf6 Rg3 Rd7 b4 d4 Kd3 e5 Rg7+ Kd6 Rg6 Ke6 b5 e4+ Ke2 d3+ Kd2 e3+ Kxe3 d2 Rg1 d1=Q Rxd1 Rxd1 Kf4 Ra1 Kg5 Rxa4",
+  "clocks": [
+    60003,
+    60003,
+    59635,
+    59851,
+    59299,
+    59675,
+    59107,
+    59595,
+    58579,
+    55211,
+    58179,
+    54195,
+    56867,
+    52923,
+    56675,
+    52835,
+    56171,
+    52835,
+    55707,
+    51939,
+    55347,
+    50251,
+    52315,
+    49363,
+    51963,
+    48323,
+    51571,
+    47459,
+    51155,
+    46851,
+    50283,
+    45115,
+    49475,
+    44971,
+    49347,
+    43403,
+    49115,
+    42843,
+    48675,
+    41979,
+    47955,
+    41491,
+    47659,
+    40979,
+    46307,
+    40659,
+    45819,
+    39859,
+    44971,
+    39291,
+    44219,
+    38931,
+    43083,
+    38027,
+    42523,
+    36315,
+    42091,
+    35483,
+    41451,
+    35371,
+    40467,
+    34035,
+    40083,
+    33891,
+    39891,
+    33523,
+    39555,
+    33019,
+    39259,
+    32003,
+    38803,
+    31683,
+    38667,
+    31235,
+    38371,
+    30483,
+    37923,
+    29211,
+    37547,
+    28875,
+    36387,
+    28587,
+    36059,
+    28091,
+    35499,
+    27995,
+    34811,
+    27331,
+    34667,
+    27275,
+    34435,
+    26755,
+    34091,
+    26508,
+    33423
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/kHbOePod\"]\n[Date \"2023.04.15\"]\n[White \"Gondim\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.15\"]\n[UTCTime \"16:28:10\"]\n[WhiteElo \"1584\"]\n[BlackElo \"1582\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. e5 { [%clk 0:09:56] } 2... c5 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:53] } 3... cxd4 { [%clk 0:09:57] } 4. Qxd4 { [%clk 0:09:51] } 4... Nc6 { [%clk 0:09:56] } 5. Qf4 { [%clk 0:09:46] } 5... e6 { [%clk 0:09:12] } 6. Bb5 { [%clk 0:09:42] } 6... Bd7 { [%clk 0:09:02] } 7. Qg5 { [%clk 0:09:29] } 7... Qxg5 { [%clk 0:08:49] } 8. Bxg5 { [%clk 0:09:27] } 8... Nxe5 { [%clk 0:08:48] } 9. Bxd7+ { [%clk 0:09:22] } 9... Kxd7 { [%clk 0:08:48] } 10. f4 { [%clk 0:09:17] } 10... Ng6 { [%clk 0:08:39] } 11. h4 { [%clk 0:09:13] } 11... h6 { [%clk 0:08:23] } 12. f5 { [%clk 0:08:43] } 12... hxg5 { [%clk 0:08:14] } 13. fxg6 { [%clk 0:08:40] } 13... fxg6 { [%clk 0:08:03] } 14. Nf3 { [%clk 0:08:36] } 14... Rc8 { [%clk 0:07:55] } 15. Nxg5 { [%clk 0:08:32] } 15... Rxc2 { [%clk 0:07:49] } 16. Nf7 { [%clk 0:08:23] } 16... Rc1+ { [%clk 0:07:31] } 17. Kd2 { [%clk 0:08:15] } 17... Rxh1 { [%clk 0:07:30] } 18. Nxh8 { [%clk 0:08:13] } 18... Rxh4 { [%clk 0:07:14] } 19. Nxg6 { [%clk 0:08:11] } 19... Rh2 { [%clk 0:07:08] } 20. Nxf8+ { [%clk 0:08:07] } 20... Ke7 { [%clk 0:07:00] } 21. Ng6+ { [%clk 0:08:00] } 21... Kf6 { [%clk 0:06:55] } 22. Nf4 { [%clk 0:07:57] } 22... g5 { [%clk 0:06:50] } 23. Nd3 { [%clk 0:07:43] } 23... Rxg2+ { [%clk 0:06:47] } 24. Kc3 { [%clk 0:07:38] } 24... Rg1 { [%clk 0:06:39] } 25. a4 { [%clk 0:07:30] } 25... g4 { [%clk 0:06:33] } 26. Kc2 { [%clk 0:07:22] } 26... g3 { [%clk 0:06:29] } 27. Ra3 { [%clk 0:07:11] } 27... g2 { [%clk 0:06:20] } 28. Nd2 { [%clk 0:07:05] } 28... Rh1 { [%clk 0:06:03] } 29. Nf3 { [%clk 0:07:01] } 29... g1=Q { [%clk 0:05:55] } 30. Nxg1 { [%clk 0:06:55] } 30... Rxg1 { [%clk 0:05:54] } 31. Nc5 { [%clk 0:06:45] } 31... Rg7 { [%clk 0:05:40] } 32. Nxb7 { [%clk 0:06:41] } 32... Rxb7 { [%clk 0:05:39] } 33. Rf3+ { [%clk 0:06:39] } 33... Ke7 { [%clk 0:05:35] } 34. Rh3 { [%clk 0:06:36] } 34... Nf6 { [%clk 0:05:30] } 35. Rg3 { [%clk 0:06:33] } 35... Rd7 { [%clk 0:05:20] } 36. b4 { [%clk 0:06:28] } 36... d4 { [%clk 0:05:17] } 37. Kd3 { [%clk 0:06:27] } 37... e5 { [%clk 0:05:12] } 38. Rg7+ { [%clk 0:06:24] } 38... Kd6 { [%clk 0:05:05] } 39. Rg6 { [%clk 0:06:19] } 39... Ke6 { [%clk 0:04:52] } 40. b5 { [%clk 0:06:15] } 40... e4+ { [%clk 0:04:49] } 41. Ke2 { [%clk 0:06:04] } 41... d3+ { [%clk 0:04:46] } 42. Kd2 { [%clk 0:06:01] } 42... e3+ { [%clk 0:04:41] } 43. Kxe3 { [%clk 0:05:55] } 43... d2 { [%clk 0:04:40] } 44. Rg1 { [%clk 0:05:48] } 44... d1=Q { [%clk 0:04:33] } 45. Rxd1 { [%clk 0:05:47] } 45... Rxd1 { [%clk 0:04:33] } 46. Kf4 { [%clk 0:05:44] } 46... Ra1 { [%clk 0:04:28] } 47. Kg5 { [%clk 0:05:41] } 47... Rxa4 { [%clk 0:04:25] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "zcR8U3VF",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681656543604,
+  "lastMoveAt": 1681656896178,
+  "status": "mate",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1588,
+      "ratingDiff": 5
+    },
+    "black": {
+      "user": {
+        "name": "MunnOh",
+        "id": "munnoh"
+      },
+      "rating": 1547,
+      "ratingDiff": -5
+    }
+  },
+  "winner": "white",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 Bb4 Nxc6 Bxc3+ bxc3 dxc6 Qxd8+ Kxd8 Bd3 Be6 Bg5 Ke7 e5 h6 exf6+ gxf6 Bf4 Bd5 Bxc7 Bxg2 Rg1 Bd5 c4 Bf3 Rb1 Rhe8 Kd2 Kd7 Bf4 b6 Bf5+ Kd8 Bxh6 Rh8 Bg7 Rxh2 Bxf6+ Ke8 Rg8#",
+  "clocks": [
+    60003,
+    60003,
+    59891,
+    59915,
+    59835,
+    59747,
+    59747,
+    59419,
+    59483,
+    58867,
+    59323,
+    58691,
+    58179,
+    58131,
+    57947,
+    57971,
+    57787,
+    52043,
+    56443,
+    51603,
+    55219,
+    50107,
+    55083,
+    50019,
+    54635,
+    49539,
+    54003,
+    49259,
+    53651,
+    48491,
+    52691,
+    47851,
+    52059,
+    47355,
+    51035,
+    47019,
+    49339,
+    44267,
+    47059,
+    42875,
+    46403,
+    42539,
+    45027,
+    42019,
+    44915,
+    41571,
+    44316
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/zcR8U3VF\"]\n[Date \"2023.04.16\"]\n[White \"pnmadelaine\"]\n[Black \"MunnOh\"]\n[Result \"1-0\"]\n[UTCDate \"2023.04.16\"]\n[UTCTime \"14:49:03\"]\n[WhiteElo \"1588\"]\n[BlackElo \"1547\"]\n[WhiteRatingDiff \"+5\"]\n[BlackRatingDiff \"-5\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:58] } 3... exd4 { [%clk 0:09:57] } 4. Nxd4 { [%clk 0:09:57] } 4... Nf6 { [%clk 0:09:54] } 5. Nc3 { [%clk 0:09:55] } 5... Bb4 { [%clk 0:09:49] } 6. Nxc6 { [%clk 0:09:53] } 6... Bxc3+ { [%clk 0:09:47] } 7. bxc3 { [%clk 0:09:42] } 7... dxc6 { [%clk 0:09:41] } 8. Qxd8+ { [%clk 0:09:39] } 8... Kxd8 { [%clk 0:09:40] } 9. Bd3 { [%clk 0:09:38] } 9... Be6 { [%clk 0:08:40] } 10. Bg5 { [%clk 0:09:24] } 10... Ke7 { [%clk 0:08:36] } 11. e5 { [%clk 0:09:12] } 11... h6 { [%clk 0:08:21] } 12. exf6+ { [%clk 0:09:11] } 12... gxf6 { [%clk 0:08:20] } 13. Bf4 { [%clk 0:09:06] } 13... Bd5 { [%clk 0:08:15] } 14. Bxc7 { [%clk 0:09:00] } 14... Bxg2 { [%clk 0:08:13] } 15. Rg1 { [%clk 0:08:57] } 15... Bd5 { [%clk 0:08:05] } 16. c4 { [%clk 0:08:47] } 16... Bf3 { [%clk 0:07:59] } 17. Rb1 { [%clk 0:08:41] } 17... Rhe8 { [%clk 0:07:54] } 18. Kd2 { [%clk 0:08:30] } 18... Kd7 { [%clk 0:07:50] } 19. Bf4 { [%clk 0:08:13] } 19... b6 { [%clk 0:07:23] } 20. Bf5+ { [%clk 0:07:51] } 20... Kd8 { [%clk 0:07:09] } 21. Bxh6 { [%clk 0:07:44] } 21... Rh8 { [%clk 0:07:05] } 22. Bg7 { [%clk 0:07:30] } 22... Rxh2 { [%clk 0:07:00] } 23. Bxf6+ { [%clk 0:07:29] } 23... Ke8 { [%clk 0:06:56] } 24. Rg8# { [%clk 0:07:23] } 1-0\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "b2TRhTpt",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681919983855,
+  "lastMoveAt": 1681920666233,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1593,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "NAUDLEPUY",
+        "id": "naudlepuy"
+      },
+      "rating": 1602,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 e6 d4 d5 Nc3 Bb4 e5 Ne7 Bd2 O-O Nf3 Ng6 Bd3 Nc6 O-O f5 Bg5 Be7 Qd2 Bxg5 Nxg5 Nxd4 Rad1 Nc6 Rfe1 Ncxe5 Be2 Qf6 Nxd5 exd5 Qxd5+ Kh8 h4 Nxh4 g3 Nhg6 Bc4 c6 Qg8+ Rxg8 Nf7+ Nxf7 Bxf7 Qxf7",
+  "clocks": [
+    60003,
+    60003,
+    59851,
+    59427,
+    59355,
+    59075,
+    56131,
+    58195,
+    55155,
+    57643,
+    52859,
+    57043,
+    52051,
+    56691,
+    47627,
+    56307,
+    45267,
+    56067,
+    43507,
+    54787,
+    42947,
+    54443,
+    39491,
+    53955,
+    36931,
+    53411,
+    29667,
+    52059,
+    17411,
+    51507,
+    17219,
+    50851,
+    12955,
+    50059,
+    7995,
+    49587,
+    6099,
+    48915,
+    5251,
+    48123,
+    5155,
+    47635,
+    5155,
+    47518,
+    3956
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/b2TRhTpt\"]\n[Date \"2023.04.19\"]\n[White \"pnmadelaine\"]\n[Black \"NAUDLEPUY\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.19\"]\n[UTCTime \"15:59:43\"]\n[WhiteElo \"1593\"]\n[BlackElo \"1602\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C16\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:59] } 2... d5 { [%clk 0:09:54] } 3. Nc3 { [%clk 0:09:54] } 3... Bb4 { [%clk 0:09:51] } 4. e5 { [%clk 0:09:21] } 4... Ne7 { [%clk 0:09:42] } 5. Bd2 { [%clk 0:09:12] } 5... O-O { [%clk 0:09:36] } 6. Nf3 { [%clk 0:08:49] } 6... Ng6 { [%clk 0:09:30] } 7. Bd3 { [%clk 0:08:41] } 7... Nc6 { [%clk 0:09:27] } 8. O-O { [%clk 0:07:56] } 8... f5 { [%clk 0:09:23] } 9. Bg5 { [%clk 0:07:33] } 9... Be7 { [%clk 0:09:21] } 10. Qd2 { [%clk 0:07:15] } 10... Bxg5 { [%clk 0:09:08] } 11. Nxg5 { [%clk 0:07:09] } 11... Nxd4 { [%clk 0:09:04] } 12. Rad1 { [%clk 0:06:35] } 12... Nc6 { [%clk 0:09:00] } 13. Rfe1 { [%clk 0:06:09] } 13... Ncxe5 { [%clk 0:08:54] } 14. Be2 { [%clk 0:04:57] } 14... Qf6 { [%clk 0:08:41] } 15. Nxd5 { [%clk 0:02:54] } 15... exd5 { [%clk 0:08:35] } 16. Qxd5+ { [%clk 0:02:52] } 16... Kh8 { [%clk 0:08:29] } 17. h4 { [%clk 0:02:10] } 17... Nxh4 { [%clk 0:08:21] } 18. g3 { [%clk 0:01:20] } 18... Nhg6 { [%clk 0:08:16] } 19. Bc4 { [%clk 0:01:01] } 19... c6 { [%clk 0:08:09] } 20. Qg8+ { [%clk 0:00:53] } 20... Rxg8 { [%clk 0:08:01] } 21. Nf7+ { [%clk 0:00:52] } 21... Nxf7 { [%clk 0:07:56] } 22. Bxf7 { [%clk 0:00:52] } 22... Qxf7 { [%clk 0:07:55] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "e32aMl6h",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1681920723189,
+  "lastMoveAt": 1681921324576,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1587,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "rahanlesage",
+        "id": "rahanlesage"
+      },
+      "rating": 1567,
+      "ratingDiff": 6
+    }
+  },
+  "winner": "black",
+  "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Ne5 Nc3 Bb4 Bd2 Nf6 f3 c5 Nf5 O-O f4 Nc6 e5 Ne8 Bc4 d5 Qg4 Bxf5",
+  "clocks": [
+    60003,
+    60003,
+    59859,
+    59723,
+    59739,
+    59403,
+    59651,
+    58827,
+    56019,
+    57011,
+    54267,
+    56187,
+    51811,
+    50835,
+    49627,
+    49971,
+    38939,
+    46187,
+    38059,
+    43331,
+    34507,
+    40955,
+    23243,
+    38078,
+    21237
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/e32aMl6h\"]\n[Date \"2023.04.19\"]\n[White \"pnmadelaine\"]\n[Black \"rahanlesage\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.19\"]\n[UTCTime \"16:12:03\"]\n[WhiteElo \"1587\"]\n[BlackElo \"1567\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+6\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"C45\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nc6 { [%clk 0:09:57] } 3. d4 { [%clk 0:09:57] } 3... exd4 { [%clk 0:09:54] } 4. Nxd4 { [%clk 0:09:57] } 4... Ne5 { [%clk 0:09:48] } 5. Nc3 { [%clk 0:09:20] } 5... Bb4 { [%clk 0:09:30] } 6. Bd2 { [%clk 0:09:03] } 6... Nf6 { [%clk 0:09:22] } 7. f3 { [%clk 0:08:38] } 7... c5 { [%clk 0:08:28] } 8. Nf5 { [%clk 0:08:16] } 8... O-O { [%clk 0:08:20] } 9. f4 { [%clk 0:06:29] } 9... Nc6 { [%clk 0:07:42] } 10. e5 { [%clk 0:06:21] } 10... Ne8 { [%clk 0:07:13] } 11. Bc4 { [%clk 0:05:45] } 11... d5 { [%clk 0:06:50] } 12. Qg4 { [%clk 0:03:52] } 12... Bxf5 { [%clk 0:06:21] } 0-1\n\n\n",
+  "clock": {
+    "initial": 600,
+    "increment": 0,
+    "totalTime": 600
+  }
+}
+{
+  "id": "ujWo8gAt",
+  "rated": true,
+  "variant": "standard",
+  "speed": "rapid",
+  "perf": "rapid",
+  "createdAt": 1682092002219,
+  "lastMoveAt": 1682092499855,
+  "status": "resign",
+  "players": {
+    "white": {
+      "user": {
+        "name": "chessadkt",
+        "id": "chessadkt"
+      },
+      "rating": 1614,
+      "ratingDiff": -6
+    },
+    "black": {
+      "user": {
+        "name": "pnmadelaine",
+        "patron": true,
+        "id": "pnmadelaine"
+      },
+      "rating": 1581,
+      "ratingDiff": 7
+    }
+  },
+  "winner": "black",
+  "moves": "e4 d5 e5 c5 d4 cxd4 Qxd4 Nc6 Bb5 e6 Bxc6+ bxc6 Nf3 Ne7 O-O Nf5 Qf4 Ba6 Re1 Be7 Nc3 O-O a3 Rb8 b4 c5 bxc5 Bxc5 Ne2 Qb6 Ned4 Nxd4 Be3 Ne2+ Rxe2 Bxe2",
+  "clocks": [
+    60003,
+    60003,
+    59851,
+    59859,
+    58883,
+    59731,
+    58755,
+    59611,
+    58275,
+    57827,
+    57947,
+    57683,
+    57459,
+    57435,
+    57139,
+    57227,
+    54579,
+    55235,
+    54203,
+    53787,
+    53283,
+    52955,
+    51267,
+    48515,
+    50411,
+    43723,
+    47195,
+    43507,
+    43723,
+    41067,
+    37539,
+    39627,
+    36051,
+    36107,
+    35619,
+    35956,
+    31732
+  ],
+  "pgn": "[Event \"Rated Rapid game\"]\n[Site \"https://lichess.org/ujWo8gAt\"]\n[Date \"2023.04.21\"]\n[White \"chessadkt\"]\n[Black \"pnmadelaine\"]\n[Result \"0-1\"]\n[UTCDate \"2023.04.21\"]\n[UTCTime \"15:46:42\"]\n[WhiteElo \"1614\"]\n[BlackElo \"1581\"]\n[WhiteRatingDiff \"-6\"]\n[BlackRatingDiff \"+7\"]\n[Variant \"Standard\"]\n[TimeControl \"600+0\"]\n[ECO \"B01\"]\n[Termination \"Normal\"]\n\n1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. e5 { [%clk 0:09:59] } 2... c5 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:49] } 3... cxd4 { [%clk 0:09:57] } 4. Qxd4 { [%clk 0:09:48] } 4... Nc6 { [%clk 0:09:56] } 5. Bb5 { [%clk 0:09:43] } 5... e6 { [%clk 0:09:38] } 6. Bxc6+ { [%clk 0:09:39] } 6... bxc6 { [%clk 0:09:37] } 7. Nf3 { [%clk 0:09:35] } 7... Ne7 { [%clk 0:09:34] } 8. O-O { [%clk 0:09:31] } 8... Nf5 { [%clk 0:09:32] } 9. Qf4 { [%clk 0:09:06] } 9... Ba6 { [%clk 0:09:12] } 10. Re1 { [%clk 0:09:02] } 10... Be7 { [%clk 0:08:58] } 11. Nc3 { [%clk 0:08:53] } 11... O-O { [%clk 0:08:50] } 12. a3 { [%clk 0:08:33] } 12... Rb8 { [%clk 0:08:05] } 13. b4 { [%clk 0:08:24] } 13... c5 { [%clk 0:07:17] } 14. bxc5 { [%clk 0:07:52] } 14... Bxc5 { [%clk 0:07:15] } 15. Ne2 { [%clk 0:07:17] } 15... Qb6 { [%clk 0:06:51] } 16. Ned4 { [%clk 0:06:15] } 16... Nxd4 { [%clk 0:06:36] } 17. Be3 { [%clk 0:06:01] } 17... Ne2+ { [%clk 0:06:01] } 18. Rxe2 { [%clk 0:05:56] } 18... Bxe2 { [%clk 0:06:00] } 0-1\n\n\n",
   "clock": {
     "initial": 600,
     "increment": 0,
