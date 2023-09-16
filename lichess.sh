@@ -1,10 +1,8 @@
 #!/bin/sh
 
 user=pnmadelaine
-token=$(cat token.txt)
 
 curl "https://lichess.org/api/games/user/$user?clocks=true&pgnInJson=true&sort=dateAsc" \
-	-H "Authorization: Bearer $token" \
 	-H "Accept: application/x-ndjson" \
 	| jq > lichess.json
 
