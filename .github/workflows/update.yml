@@ -8,9 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: update
+      - name: run `./update.sh`
+        run: ./update.sh
+      - name: commit changes
         run: |
-          ./update.sh
           git config --local user.name "Paul-Nicolas Madelaine"
           git config --local user.email "pnm@pnm.tf"
           git add .
