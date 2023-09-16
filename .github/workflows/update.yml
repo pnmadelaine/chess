@@ -14,8 +14,7 @@ jobs:
         run: |
           git config --local user.name "Paul-Nicolas Madelaine"
           git config --local user.email "pnm@pnm.tf"
-          git add .
-          git commit -m "update games"
+          git commit -a -m "update games"
       - uses: ad-m/github-push-action@master
         with:
           branch: main
