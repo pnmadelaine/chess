@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 true>chesscom.json
 true>chesscom.pgn
