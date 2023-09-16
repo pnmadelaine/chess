@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 true>chesscom.json
 true>chesscom.pgn
