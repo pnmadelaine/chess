@@ -26581,3 +26581,45 @@
 
 
 
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/ogrLkqtz"]
+[Date "2023.09.17"]
+[White "pnmadelaine"]
+[Black "onestepahead90"]
+[Result "1-0"]
+[UTCDate "2023.09.17"]
+[UTCTime "15:35:42"]
+[WhiteElo "1642"]
+[BlackElo "1598"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... d6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:57] } 3... Bg4 { [%clk 0:09:59] } 4. dxe5 { [%clk 0:09:52] } 4... Bxf3 { [%clk 0:09:59] } 5. Qxf3 { [%clk 0:09:47] } 5... dxe5 { [%clk 0:09:58] } 6. Bc4 { [%clk 0:09:43] } 6... Nf6 { [%clk 0:09:56] } 7. O-O { [%clk 0:09:34] } 7... Be7 { [%clk 0:09:53] } 8. Nc3 { [%clk 0:09:07] } 8... Nc6 { [%clk 0:09:51] } 9. Be3 { [%clk 0:08:41] } 9... O-O { [%clk 0:09:47] } 10. Rad1 { [%clk 0:08:36] } 10... Bd6 { [%clk 0:09:43] } 11. Qg3 { [%clk 0:07:56] } 11... Kh8 { [%clk 0:09:20] } 12. Nd5 { [%clk 0:07:30] } 12... Nd4 { [%clk 0:09:08] } 13. Nxf6 { [%clk 0:07:17] } 13... Qxf6 { [%clk 0:08:56] } 14. c3 { [%clk 0:06:51] } 14... b5 { [%clk 0:08:49] } 15. Bd3 { [%clk 0:06:40] } 15... Ne6 { [%clk 0:08:34] } 16. Bxb5 { [%clk 0:06:25] } 16... Ng5 { [%clk 0:08:31] } 17. Bxg5 { [%clk 0:06:11] } 17... Qg6 { [%clk 0:08:30] } 18. Rfe1 { [%clk 0:05:45] } 18... f6 { [%clk 0:08:23] } 19. Bh4 { [%clk 0:05:42] } 19... Qh5 { [%clk 0:08:17] } 20. Be2 { [%clk 0:05:35] } 20... Qh6 { [%clk 0:08:13] } 21. Qg4 { [%clk 0:05:18] } 21... g5 { [%clk 0:08:01] } 22. Bg3 { [%clk 0:05:05] } 22... Rg8 { [%clk 0:07:39] } 23. Qh5 { [%clk 0:04:56] } 23... Qf8 { [%clk 0:07:34] } 24. Bg4 { [%clk 0:04:31] } 24... Rg6 { [%clk 0:07:22] } 25. Bf5 { [%clk 0:04:13] } 25... Rh6 { [%clk 0:07:20] } 26. Qf3 { [%clk 0:04:08] } 26... Qg7 { [%clk 0:07:11] } 27. a3 { [%clk 0:03:48] } 27... Rf8 { [%clk 0:06:58] } 28. b4 { [%clk 0:03:46] } 28... a6 { [%clk 0:06:43] } 29. c4 { [%clk 0:03:37] } 29... Re8 { [%clk 0:06:32] } 30. c5 { [%clk 0:03:35] } 30... Be7 { [%clk 0:06:28] } 31. Rd7 { [%clk 0:03:34] } 31... Rd8 { [%clk 0:06:19] } 32. Red1 { [%clk 0:03:24] } 32... Qf8 { [%clk 0:06:13] } 33. Rxc7 { [%clk 0:03:10] } 33... Rxd1+ { [%clk 0:05:58] } 34. Qxd1 { [%clk 0:03:10] } 34... Bd8 { [%clk 0:05:57] } 35. Rc8 { [%clk 0:03:03] } 1-0
+
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/cSiCdNyD"]
+[Date "2023.09.17"]
+[White "pnmadelaine"]
+[Black "Dagoleon"]
+[Result "0-1"]
+[UTCDate "2023.09.17"]
+[UTCTime "15:49:18"]
+[WhiteElo "1647"]
+[BlackElo "1675"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... b6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:58] } 2... Bb7 { [%clk 0:10:00] } 3. Nc3 { [%clk 0:09:57] } 3... e6 { [%clk 0:09:59] } 4. Nf3 { [%clk 0:09:51] } 4... Bb4 { [%clk 0:09:58] } 5. Bd3 { [%clk 0:09:40] } 5... Bxc3+ { [%clk 0:09:55] } 6. bxc3 { [%clk 0:09:40] } 6... Ne7 { [%clk 0:09:54] } 7. O-O { [%clk 0:09:38] } 7... f6 { [%clk 0:09:53] } 8. c4 { [%clk 0:09:25] } 8... O-O { [%clk 0:09:51] } 9. d5 { [%clk 0:09:22] } 9... exd5 { [%clk 0:09:50] } 10. cxd5 { [%clk 0:09:21] } 10... d6 { [%clk 0:09:48] } 11. Nd4 { [%clk 0:09:06] } 11... Re8 { [%clk 0:09:36] } 12. Bb5 { [%clk 0:08:58] } 12... c6 { [%clk 0:09:34] } 13. dxc6 { [%clk 0:08:32] } 13... Nexc6 { [%clk 0:09:29] } 14. Re1 { [%clk 0:08:15] } 14... Nxd4 { [%clk 0:09:27] } 15. Qxd4 { [%clk 0:08:15] } 15... Nc6 { [%clk 0:09:23] } 16. Qc4+ { [%clk 0:08:02] } 16... Kf8 { [%clk 0:08:49] } 17. Bxc6 { [%clk 0:07:51] } 17... Rc8 { [%clk 0:08:47] } 18. Qd3 { [%clk 0:07:12] } 18... Rxc6 { [%clk 0:08:36] } 19. Ba3 { [%clk 0:07:01] } 19... Re5 { [%clk 0:08:20] } 20. Rad1 { [%clk 0:06:53] } 20... Ke7 { [%clk 0:08:09] } 21. f4 { [%clk 0:06:23] } 21... Re6 { [%clk 0:08:05] } 22. e5 { [%clk 0:06:17] } 22... fxe5 { [%clk 0:08:00] } 23. fxe5 { [%clk 0:06:16] } 23... Ke8 { [%clk 0:07:32] } 24. exd6 { [%clk 0:05:58] } 24... Rxe1+ { [%clk 0:07:30] } 25. Rxe1+ { [%clk 0:05:52] } 25... Kd7 { [%clk 0:07:29] } 26. Re8 { [%clk 0:05:32] } 26... Qxe8 { [%clk 0:07:26] } 0-1
+
+
+
