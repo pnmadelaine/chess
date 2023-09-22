@@ -37000,6 +37000,37 @@
         "username": "pnmadelaine",
         "uuid": "400f93f6-3c24-11ec-890f-61c21a1d7f9f"
       }
+    },
+    {
+      "url": "https://www.chess.com/game/live/89026956783",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2023.09.21\"]\n[Round \"-\"]\n[White \"Chetan456\"]\n[Black \"pnmadelaine\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"7k/7P/6K1/8/4B3/8/8/8 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Modern-Scandinavian-Gambit\"]\n[UTCDate \"2023.09.21\"]\n[UTCTime \"09:23:21\"]\n[WhiteElo \"897\"]\n[BlackElo \"953\"]\n[TimeControl \"180+2\"]\n[Termination \"Game drawn by stalemate\"]\n[StartTime \"09:23:21\"]\n[EndDate \"2023.09.21\"]\n[EndTime \"09:32:41\"]\n[Link \"https://www.chess.com/game/live/89026956783\"]\n\n1. e4 {[%clk 0:03:02]} 1... d5 {[%clk 0:03:01.6]} 2. exd5 {[%clk 0:03:02.2]} 2... Nf6 {[%clk 0:03:02.7]} 3. c4 {[%clk 0:02:58.2]} 3... c6 {[%clk 0:03:03.7]} 4. dxc6 {[%clk 0:02:58.8]} 4... Nxc6 {[%clk 0:03:05.6]} 5. Nf3 {[%clk 0:02:55.5]} 5... e5 {[%clk 0:03:05.7]} 6. Be2 {[%clk 0:02:50.3]} 6... e4 {[%clk 0:03:04.7]} 7. Ng5 {[%clk 0:02:32.5]} 7... h6 {[%clk 0:02:59.1]} 8. Nh3 {[%clk 0:02:19.3]} 8... Bxh3 {[%clk 0:02:59.6]} 9. gxh3 {[%clk 0:02:20]} 9... Bc5 {[%clk 0:02:43]} 10. d3 {[%clk 0:02:14.3]} 10... Bb4+ {[%clk 0:02:28.3]} 11. Bd2 {[%clk 0:02:12.7]} 11... exd3 {[%clk 0:02:25.8]} 12. Bxb4 {[%clk 0:02:03.5]} 12... Nxb4 {[%clk 0:02:27.7]} 13. Qa4+ {[%clk 0:01:30.8]} 13... Nc6 {[%clk 0:02:17.5]} 14. Bf3 {[%clk 0:01:11.1]} 14... Qa5+ {[%clk 0:02:05.5]} 15. Qxa5 {[%clk 0:01:10.8]} 15... Nxa5 {[%clk 0:02:07.4]} 16. Nd2 {[%clk 0:01:08.1]} 16... O-O-O {[%clk 0:01:51.3]} 17. O-O-O {[%clk 0:01:08.8]} 17... Rhe8 {[%clk 0:01:41.8]} 18. Rhe1 {[%clk 0:00:57.4]} 18... Kb8 {[%clk 0:01:28.1]} 19. Bg2 {[%clk 0:00:25.1]} 19... Rc8 {[%clk 0:01:09]} 20. b3 {[%clk 0:00:21.2]} 20... b5 {[%clk 0:01:01.2]} 21. Kb1 {[%clk 0:00:10.2]} 21... bxc4 {[%clk 0:01:00]} 22. Nxc4 {[%clk 0:00:04.3]} 22... Nxc4 {[%clk 0:00:53.6]} 23. Rxe8 {[%clk 0:00:03]} 23... Nxe8 {[%clk 0:00:39.4]} 24. bxc4 {[%clk 0:00:04]} 24... Rxc4 {[%clk 0:00:35.9]} 25. Rxd3 {[%clk 0:00:05.2]} 25... Rb4+ {[%clk 0:00:33.3]} 26. Rb3 {[%clk 0:00:07.1]} 26... Rxb3+ {[%clk 0:00:33.1]} 27. axb3 {[%clk 0:00:08.1]} 27... Nd6 {[%clk 0:00:30]} 28. Kc2 {[%clk 0:00:10]} 28... Kc7 {[%clk 0:00:30.9]} 29. Bd5 {[%clk 0:00:10.3]} 29... f6 {[%clk 0:00:30.9]} 30. f4 {[%clk 0:00:07.5]} 30... Kb6 {[%clk 0:00:29.9]} 31. Kd3 {[%clk 0:00:09.4]} 31... Kc5 {[%clk 0:00:31]} 32. h4 {[%clk 0:00:08.5]} 32... Nf5 {[%clk 0:00:15.7]} 33. Be4 {[%clk 0:00:05.9]} 33... Nxh4 {[%clk 0:00:15.7]} 34. h3 {[%clk 0:00:06.8]} 34... g5 {[%clk 0:00:14.7]} 35. fxg5 {[%clk 0:00:07]} 35... hxg5 {[%clk 0:00:16.6]} 36. Bf5 {[%clk 0:00:07.6]} 36... Kb4 {[%clk 0:00:12.1]} 37. Be6 {[%clk 0:00:04.8]} 37... Nf3 {[%clk 0:00:11.2]} 38. Ke3 {[%clk 0:00:04.4]} 38... Ne5 {[%clk 0:00:10.7]} 39. Ke4 {[%clk 0:00:04.1]} 39... a5 {[%clk 0:00:10.5]} 40. Kf5 {[%clk 0:00:03.8]} 40... a4 {[%clk 0:00:04.9]} 41. bxa4 {[%clk 0:00:02.8]} 41... Kxa4 {[%clk 0:00:06.8]} 42. Kxf6 {[%clk 0:00:04.6]} 42... Nf3 {[%clk 0:00:06.5]} 43. Bd5 {[%clk 0:00:04.8]} 43... Nh4 {[%clk 0:00:06.9]} 44. Kxg5 {[%clk 0:00:05.2]} 44... Kb4 {[%clk 0:00:08.1]} 45. Kxh4 {[%clk 0:00:03.9]} 45... Kc5 {[%clk 0:00:09.7]} 46. Kg4 {[%clk 0:00:05.6]} 46... Kd6 {[%clk 0:00:11.6]} 47. h4 {[%clk 0:00:07.4]} 47... Ke7 {[%clk 0:00:13.5]} 48. Kg5 {[%clk 0:00:09.3]} 48... Kf8 {[%clk 0:00:15.4]} 49. h5 {[%clk 0:00:10.6]} 49... Kg7 {[%clk 0:00:17.3]} 50. h6+ {[%clk 0:00:11.7]} 50... Kh8 {[%clk 0:00:19.2]} 51. Be4 {[%clk 0:00:12.5]} 51... Kg8 {[%clk 0:00:19.1]} 52. Kg6 {[%clk 0:00:14.4]} 52... Kh8 {[%clk 0:00:20.3]} 53. h7 {[%clk 0:00:16.3]} 1/2-1/2\n",
+      "time_control": "180+2",
+      "end_time": 1695288761,
+      "rated": true,
+      "accuracies": {
+        "white": 73.56,
+        "black": 70.56
+      },
+      "tcn": "mCZJCJ!TkAYQJQ5Qgv0KfmKCvM3VMx6xox9IltIzclCtlzQzdyzQmv7GyGQGbl86ec?8he65vo76jrXHcbHAlAGAe8T8rA6AdtAztrzrir8Rbk5YoJ1TnDYPktPIxFRLJCLFpx2MDMVMCLIzLSFvtuvKuCWGCLGyryzyLTKvSJvFTMyzMFzIFEIRxFR0EM09FN92NV2?JC?!MU!?V3",
+      "uuid": "790a7ffb-5860-11ee-80f4-6cfe544c0428",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "7k/7P/6K1/8/4B3/8/8/8 b - -",
+      "time_class": "blitz",
+      "rules": "chess",
+      "white": {
+        "rating": 897,
+        "result": "stalemate",
+        "@id": "https://api.chess.com/pub/player/chetan456",
+        "username": "Chetan456",
+        "uuid": "54e0b5b0-69b5-11e4-8012-000000000000"
+      },
+      "black": {
+        "rating": 953,
+        "result": "stalemate",
+        "@id": "https://api.chess.com/pub/player/pnmadelaine",
+        "username": "pnmadelaine",
+        "uuid": "400f93f6-3c24-11ec-890f-61c21a1d7f9f"
+      }
     }
   ]
 }
