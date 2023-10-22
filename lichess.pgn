@@ -18601,6 +18601,27 @@
 
 
 
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/rgIfhrtI"]
+[Date "2023.07.20"]
+[White "pnmadelaine"]
+[Black "TheAuGingembre"]
+[Result "1-0"]
+[UTCDate "2023.07.20"]
+[UTCTime "10:50:19"]
+[WhiteElo "1901"]
+[BlackElo "1831"]
+[WhiteRatingDiff "+126"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B18"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Ne5 Nf6 8. Nxg6 hxg6 9. Bg5 Nbd7 10. Qd2 Qb6 11. O-O-O Nd5 12. a3 f6 13. Be3 Rc8 14. c4 Kf7 15. cxd5 cxd5+ 16. Kb1 Bxa3 17. Ka2 Bb4 18. Qd3 Qa5+ 19. Kb1 Rc6 20. Qb5 Rhc8 21. Qxa5 Bxa5 22. Bb5 R6c7 23. Bf4 e5 24. dxe5 fxe5 25. Bxd7 Rxd7 26. Bxe5 Bd8 27. Ne2 Bf6 28. Bg3 Re7 29. Rhe1 Rce8 30. Rd2 d4 31. Kc2 g5 32. Kd3 b5 33. Rc1 g4 34. Rc7 a5 35. Rxe7+ Rxe7 36. Bd6 Rd7 37. Bc5 b4 38. Nxd4 a4 39. Kc4 a3 40. bxa3 1-0
+
+
+
 [Event "Rated Rapid game"]
 [Site "https://lichess.org/YHxW7Jvs"]
 [Date "2023.07.20"]
