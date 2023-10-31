@@ -27799,3 +27799,24 @@
 
 
 
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2wkQXqfV"]
+[Date "2023.10.30"]
+[White "pnmadelaine"]
+[Black "chesskingdom269"]
+[Result "1-0"]
+[UTCDate "2023.10.30"]
+[UTCTime "20:58:01"]
+[WhiteElo "1386"]
+[BlackElo "1322"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C45"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:01] } 2... Nc6 { [%clk 0:03:01] } 3. d4 { [%clk 0:03:02] } 3... exd4 { [%clk 0:03:02] } 4. Nxd4 { [%clk 0:03:04] } 4... d5 { [%clk 0:03:02] } 5. Nc3 { [%clk 0:02:50] } 5... Be6 { [%clk 0:02:57] } 6. exd5 { [%clk 0:02:45] } 6... Bxd5 { [%clk 0:02:55] } 7. Nxd5 { [%clk 0:02:46] } 7... Qxd5 { [%clk 0:02:57] } 8. Be3 { [%clk 0:02:38] } 8... O-O-O { [%clk 0:02:56] } 9. c3 { [%clk 0:02:27] } 9... Bc5 { [%clk 0:02:41] } 10. Qg4+ { [%clk 0:02:06] } 10... Kb8 { [%clk 0:02:26] } 11. O-O-O { [%clk 0:01:59] } 11... Qxa2 { [%clk 0:01:39] } 12. Nxc6+ { [%clk 0:01:50] } 1-0
+
+
+
