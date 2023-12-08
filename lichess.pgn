@@ -33280,3 +33280,45 @@
 
 
 
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/vdwpkWOb"]
+[Date "2023.12.07"]
+[White "pnmadelaine"]
+[Black "Alex_19880501"]
+[Result "0-1"]
+[UTCDate "2023.12.07"]
+[UTCTime "16:06:15"]
+[WhiteElo "1438"]
+[BlackElo "1501"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C45"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } 1... Nc6 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:57] } 2... e5 { [%clk 0:03:01] } 3. Nf3 { [%clk 0:02:53] } 3... exd4 { [%clk 0:02:56] } 4. Nxd4 { [%clk 0:02:55] } 4... Nf6 { [%clk 0:02:56] } 5. Nc3 { [%clk 0:02:54] } 5... Bb4 { [%clk 0:02:56] } 6. Nxc6 { [%clk 0:02:51] } 6... bxc6 { [%clk 0:02:56] } 7. Bd3 { [%clk 0:02:52] } 7... Bxc3+ { [%clk 0:02:56] } 8. bxc3 { [%clk 0:02:53] } 8... O-O { [%clk 0:02:57] } 9. O-O { [%clk 0:02:52] } 9... d5 { [%clk 0:02:58] } 10. e5 { [%clk 0:02:37] } 10... Nd7 { [%clk 0:02:57] } 11. Re1 { [%clk 0:02:23] } 11... Nc5 { [%clk 0:02:54] } 12. Bf1 { [%clk 0:01:49] } 12... h6 { [%clk 0:02:54] } 13. Be3 { [%clk 0:01:42] } 13... Ne4 { [%clk 0:02:51] } 14. c4 { [%clk 0:01:28] } 14... Be6 { [%clk 0:02:47] } 15. cxd5 { [%clk 0:01:22] } 15... cxd5 { [%clk 0:02:46] } 16. c4 { [%clk 0:01:10] } 16... dxc4 { [%clk 0:02:38] } 17. Bxh6 { [%clk 0:01:04] } 17... Qxd1 { [%clk 0:02:18] } 18. Raxd1 { [%clk 0:00:53] } 18... Nc3 { [%clk 0:02:18] } 19. Bxg7 { [%clk 0:00:37] } 19... Kxg7 { [%clk 0:02:17] } 20. Rc1 { [%clk 0:00:27] } 20... Nxa2 { [%clk 0:02:16] } 21. Rc2 { [%clk 0:00:28] } 21... Nb4 { [%clk 0:02:14] } 22. Rb2 { [%clk 0:00:16] } 22... Nd3 { [%clk 0:02:14] } 23. Bxd3 { [%clk 0:00:16] } 23... cxd3 { [%clk 0:02:14] } 24. Rd2 { [%clk 0:00:17] } 24... Bf5 { [%clk 0:02:12] } 25. Re3 { [%clk 0:00:10] } 25... Rfd8 { [%clk 0:02:11] } 26. h3 { [%clk 0:00:11] } 26... c5 { [%clk 0:02:11] } 27. g4 { [%clk 0:00:12] } 27... Bg6 { [%clk 0:02:11] } 28. e6 { [%clk 0:00:08] } 28... fxe6 { [%clk 0:02:10] } 29. Rxe6 { [%clk 0:00:10] } 29... c4 { [%clk 0:02:10] } 30. Re7+ { [%clk 0:00:06] } 30... Bf7 { [%clk 0:02:10] } 31. Rc7 { [%clk 0:00:05] } 31... Rdc8 { [%clk 0:02:10] } 0-1
+
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/15RXrXJ0"]
+[Date "2023.12.07"]
+[White "pnmadelaine"]
+[Black "sevketeti"]
+[Result "1-0"]
+[UTCDate "2023.12.07"]
+[UTCTime "16:12:34"]
+[WhiteElo "1433"]
+[BlackElo "1415"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C45"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:01] } 2... Nc6 { [%clk 0:03:00] } 3. d4 { [%clk 0:03:03] } 3... exd4 { [%clk 0:03:01] } 4. Nxd4 { [%clk 0:03:05] } 4... Bc5 { [%clk 0:02:58] } 5. Be3 { [%clk 0:03:06] } 5... Nge7 { [%clk 0:02:53] } 6. Nxc6 { [%clk 0:03:04] } 6... Bxe3 { [%clk 0:02:53] } 7. Nxd8 { [%clk 0:03:03] } 7... Bxf2+ { [%clk 0:02:53] } 8. Kxf2 { [%clk 0:03:02] } 8... O-O { [%clk 0:02:53] } 9. Nxf7 { [%clk 0:02:59] } 9... Rxf7+ { [%clk 0:02:53] } 10. Ke3 { [%clk 0:02:55] } 10... d6 { [%clk 0:02:51] } 11. Bc4 { [%clk 0:02:56] } 1-0
+
+
+
