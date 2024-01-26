@@ -3,7 +3,7 @@ set -euo pipefail
 
 true>chesscom.pgn
 
-archives=$(curl https://api.chess.com/pub/player/pnmadelaine/games/archives | jq -r ".archives[]")
+archives=$(curl https://api.chess.com/pub/player/pnmadelaine/games/archives | jq -r '.archives[]')
 
 for url in $archives
 do
