@@ -8,8 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: run `./update.sh`
-        run: ./update.sh
+      - run: scripts/all.sh
       - name: commit changes
         run: |
           git config --local user.name "Paul-Nicolas Madelaine"
