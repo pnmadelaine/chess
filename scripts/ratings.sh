@@ -10,6 +10,8 @@ lichess_rapid=$(echo "$lichess_stats" | jq '.rapid.rating')
 lichess_blitz=$(echo "$lichess_stats" | jq '.blitz.rating')
 
 cat > README.md <<EOF
+# Ratings
+
 |          | rapid | blitz |
 |----------|-------|-------|
 | lichess  | $lichess_rapid | $lichess_blitz |
