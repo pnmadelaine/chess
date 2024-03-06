@@ -1,8 +1,67 @@
+[Event "over the board games: Paul-Nicolas Madelaine - José Hammerle"]
+[Site "https://lichess.org/study/65ikUc0b/D3om1GW0"]
 [Date "2023.03.25"]
 [White "Paul-Nicolas Madelaine"]
 [Black "José Hammerle"]
 [Result "1/2-1/2"]
 [WhiteElo "1199"]
 [BlackElo "1350"]
+[Variant "Standard"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+[Annotator "https://lichess.org/@/pnmadelaine"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Be2 O-O 8. O-O d5 9. exd5 Nb4 10. Qd2 Nbxd5 11. Rad1 Nxe3 12. Qxe3 Qb6 13. Na4 Qb4 14. b3 Nd5 15. Qe4 Rd8 16. c4 e5 17. Nc2 Qe7 18. cxd5 Bf5 19. Qb4 Qxb4 20. Nxb4 Rac8 21. h3 e4 22. Bg4 Bxg4 23. hxg4 a5 24. d6 axb4 25. Rd5 Rc6 26. d7 Bf8 27. Rfd1 f6 28. Nb2 Rc2 29. Nc4 Rxa2 30. Rb5 Ra7 31. Ra5 Ra6 32. Rxa6 bxa6 33. Na5 Be7 34. Nb7 Kf7 35. Nxd8+ Bxd8 36. Kf1 Ke6 37. Ke2 f5 38. gxf5+ gxf5 39. Ke3 Ke5 40. g3 Ke6 41. Kf4 h6 42. g4 Bg5+ 43. Kg3 f4+ 44. Kg2 Bd8 45. Rd4 a5
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Be2 O-O 8. O-O d5 9. exd5 Nb4 10. Qd2 Nbxd5 11. Rad1 Nxe3 12. Qxe3 Qb6 13. Na4 Qb4 14. b3 Nd5 15. Qe4 Rd8 16. c4 e5 17. Nc2 Qe7 18. cxd5 Bf5 19. Qb4 Qxb4 20. Nxb4 Rac8 21. h3 e4 22. Bg4 Bxg4 23. hxg4 a5 24. d6 axb4 25. Rd5 Rc6 26. d7 Bf8 27. Rfd1 f6 28. Nb2 Rc2 29. Nc4 Rxa2 30. Rb5 Ra7 31. Ra5 Ra6 32. Rxa6 bxa6 33. Na5 Be7 34. Nb7 Kf7 35. Nxd8+ Bxd8 36. Kf1 Ke6 37. Ke2 f5 38. gxf5+ gxf5 39. Ke3 Ke5 40. g3 Ke6 41. Kf4 h6 42. g4 Bg5+ 43. Kg3 f4+ 44. Kg2 Bd8 45. Rd4 a5 1/2-1/2
+
+
+[Event "125e Open Inter Chess"]
+[Site "https://lichess.org/study/65ikUc0b/bMbjWcgN"]
+[Date "2024.03.02"]
+[Round "1"]
+[White "Paul-Nicolas Madelaine"]
+[Black "Ahmed Abdelrahman"]
+[Result "0-1"]
+[WhiteElo "1199"]
+[BlackElo "1575"]
+[Variant "Standard"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Annotator "https://lichess.org/@/pnmadelaine"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bd3 Bg4 6. c3 e6 7. O-O Nf6 8. Bg5 Be7 9. Nbd2 O-O 10. Qc2 h6 11. Bh4 Nd7 12. Bg3 Rc8 13. a3 a6 14. Rfe1 Re8 15. Rac1 b5 16. b4 Qb6 17. Qb1 Nf8 18. Ne5 Nxe5 19. Bxe5 Bd6 20. Bxd6 Qxd6 21. Nb3 Nd7 22. h3 Bf5 23. Bxf5 exf5 24. Rxe8+ Rxe8 25. Qxf5 Re2 26. Nc5 Nxc5 27. dxc5 Qe6 28. Qxe6 Rxe6 29. Kf1 Kf8 30. Rd1 Re5 31. f4 Re3 32. Rc1 f5 33. Kf2 Re4 34. g3 g6 35. Rd1 Rc4 36. Rd3 Ke7 37. Ke2 Ke6 38. Kd2 Re4 39. Re3 Kd7 40. Re1 Kc6 41. Ra1 d4 42. cxd4 Rxd4+ 43. Ke3 Re4+ 44. Kf3 Rc4 45. Rd1 Rc3+ 46. Kg2 Rc2+ 47. Kg1 Rc3 48. Rd6+ Kc7 49. Rxa6 Rxg3+ 50. Kh2 Rb3 51. Kg2 Rb2+ 52. Kf1 Rb3 53. Rxg6 Rxh3 54. Rb6 Rxa3 55. Rxb5 Rf3+ 56. Kg2 Rxf4 57. Rb6 h5 58. b5 Rc4 59. Rc6+ Kb7 60. b6 Kxc6 0-1
+
+
+[Event "125e Open Inter Chess"]
+[Site "https://lichess.org/study/65ikUc0b/qPVd4GHf"]
+[Date "2024.03.02"]
+[Round "2"]
+[White "Alexey Lamorelle"]
+[Black "Paul-Nicolas Madelaine"]
+[Result "1-0"]
+[WhiteElo "1749"]
+[BlackElo "1199"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Marshall Variation"]
+[Annotator "https://lichess.org/@/pnmadelaine"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bf5 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Be7 9. O-O O-O 10. Bf4 Nc6 11. Rad1 Bd6 12. Bxd6 cxd6 13. Rfe1 Rc8 14. b3 a5 15. d5 Nb4 16. Qd2 exd5 17. a3 Na6 18. Nxd5 Nxd5 19. Qxd5 Rc6 20. Nd4 Rc7 21. Qxa5 Qd7 22. Nb5 Rc5 23. Qd2 d5 24. Nc3 Rd8 25. Nxd5 Nc7 26. Nf6+ gxf6 27. Qxd7 Rxd7 28. Rxd7 1-0
+
+
+[Event "125e Open Inter Chess"]
+[Site "https://lichess.org/study/65ikUc0b/TPn84mdv"]
+[Date "2024.03.02"]
+[Round "3"]
+[White "Paul-Nicolas Madelaine"]
+[Black "Nathan Corrado"]
+[Result "1-0"]
+[WhiteElo "1199"]
+[BlackElo "1462"]
+[Variant "Standard"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Annotator "https://lichess.org/@/pnmadelaine"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Bd3 Bg4 6. c3 e6 7. Bg5 Be7 8. Nbd2 O-O 9. O-O Nc6 10. Qc2 Re8 11. Bxf6 Bxf6 12. Bxh7+ Kh8 13. Bd3 Qc7 14. h3 Bxf3 15. Nxf3 g6 16. Rfe1 Bd8 17. Qd2 Kg7 18. Rac1 Rh8 19. Ne5 f6 20. Nxg6 Rh5 21. Nf4 Rg5 22. Nxe6+ 1-0
+
+
