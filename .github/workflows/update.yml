@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: scripts/all.sh
+      - uses: DeterminateSystems/nix-installer-action@main
+      - run: nix-shell --command scripts/all.sh
       - name: commit changes
         run: |
           git config --local user.name "Paul-Nicolas Madelaine"

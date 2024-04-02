@@ -6,6 +6,5 @@ path="$path/.."
 
 cd "$path"
 
-scripts/lichess.sh
-scripts/chesscom.sh
+scripts/online.sh
 scripts/ratings.sh

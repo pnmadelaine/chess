@@ -1,0 +1,14 @@
+Site
+Link
+Date
+TimeControl
+White
+Black
+Result
+Termination
+UTCDate
+UTCTime
+WhiteElo
+BlackElo
+Event
+Round
