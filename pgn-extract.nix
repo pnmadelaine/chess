@@ -1,4 +1,6 @@
-{stdenv ? (import <nixpkgs> {}).stdenv}:
+{
+  stdenv ? (import <nixpkgs> { }).stdenv,
+}:
 stdenv.mkDerivation {
   name = "pgn-extract";
   src = builtins.fetchTarball {
