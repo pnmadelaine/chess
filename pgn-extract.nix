@@ -2,8 +2,8 @@
 stdenv.mkDerivation {
   name = "pgn-extract";
   src = builtins.fetchTarball {
-    url = "https://www.cs.kent.ac.uk/~djb/pgn-extract/pgn-extract-22-11.tgz";
-    sha256 = "1i8laxlyxzhx3x8nb28vqvv94869ympg8mzfv5bvclx2hzaci0jk";
+    url = "https://www.cs.kent.ac.uk/~djb/pgn-extract/pgn-extract-24-11.tgz";
+    sha256 = "01lpsq23f2irj5kggahaqgjd51s0hpp3rp0gpvs3y6l2nwri1gmi";
   };
   installPhase = ''
     mkdir -p $out/bin
